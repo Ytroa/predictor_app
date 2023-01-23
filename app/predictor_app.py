@@ -24,7 +24,7 @@ st.write(
 # data = pd.read_csv(data_url)
 # -------------
 
-data = pd.read_pickle("solar_clean.pickle")
+data = pd.read_pickle("../data/solar_clean.pickle")
 data = data.rename(columns={'brand_bucketed': 'brand',
                             'panel_type_bucketed': 'panel_type',
                             'region_bucketed': 'region',

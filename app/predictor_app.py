@@ -7,15 +7,36 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pickle
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.impute import SimpleImputer
+from sklearn.ensemble import RandomForestRegressor
+
+
+
+st.set_page_config(
+    page_title="Solar Panel Prices", page_icon="🖼️", initial_sidebar_state="collapsed"
+)
+st.markdown("# Solar Panel Prices")
 
 
 # ---------------------------------------------------------------------------
 # PART 1 Solar Panel Dataset ----------------------------------------------
 # ---------------------------------------------------------------------------
 
+st.image("solar_panel.png")
+
+st.header("Overview")
+
 st.write(
 '''
-## List of all solar panels
+**List of all solar panels**
 
 ''')
 
@@ -40,12 +61,10 @@ if st.checkbox('Show dataset'):
 # PART 2 Visualizations
 # ---------------------------------------------------------------------------
 
-import matplotlib.pyplot as plt
-import seaborn as sns
-
+    
 st.write(
 '''
-## Manufacturing regions
+**Manufacturing regions**
 '''
 )
 
@@ -63,7 +82,7 @@ if st.checkbox('Show regions'):
 
 st.write(
 '''
-## Price range
+**Price range**
 '''
 )
 
@@ -72,6 +91,7 @@ maxprice = max(data_clean['price_euro'])
 meanprice = np.round(np.mean(data_clean['price_euro']), 2)
 
 col1, col2, col3 = st.columns([33,33,33])
+
 col1.metric("Cheapest panel", minprice,
             help="Price in Euro")
 col2.metric("Most expensive panel", maxprice, 
@@ -83,20 +103,12 @@ col3.metric("Average price", meanprice,
 
 
 # ---------------------------------------------------------------------------
-# PART 3 - Train Model 
+# PART 3 - Model and Predictions from Input
 # ---------------------------------------------------------------------------
 
-from sklearn.model_selection import train_test_split
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import StandardScaler
-from sklearn.impute import SimpleImputer
-from sklearn.ensemble import RandomForestRegressor
-
+st.header("Price Predictions")
 
 # get features and target (only if training takes place in app)
-
 X = data_clean.drop(['price_euro'], axis=1)
 y = data_clean['price_euro']
 
@@ -104,9 +116,9 @@ X_cat = list(X.drop(['efficiency_percent', 'weight_kg'], axis=1))
 
 # preprocessing pipeline (only if training in app)
 pipeline = ColumnTransformer([("cat", OneHotEncoder(drop='first'), X_cat)],
-                                 remainder='passthrough'
+                             remainder='passthrough'
                              )
-
+    
 X_prepped = pipeline.fit_transform(X)
 
 
@@ -126,23 +138,18 @@ pretrained_rfr = pickle.load(open('rfr_model', 'rb'))
 #rfr_fitted = fit_model(rfr, X_train, y_train)
 #rfr_fitted = rfr.fit(X_prepped, y)    
 
-# ---------------------------------------------------------------------------
-# PART 4 - Predictions from User Input
-# ---------------------------------------------------------------------------
 
 st.write(
-'''
-## Choose specifications:
-'''
-)
+    '''
+    **Choose your specifications:**
+    '''
+    )
 
 eff = st.number_input('Efficiency (in %)', value=21)
 brand = st.selectbox('Brand', X['brand'].unique(), index=0)
 panel = st.selectbox('Panel', X['panel_type'].unique(), index=0)
 weight = st.number_input('Weight (in kg)', value=18)
-
 region = st.selectbox('Region', X['region'].unique(), index=0)
-
 
 input_data = pd.DataFrame({'efficiency_percent': [eff],
                            'brand': [brand],
@@ -151,14 +158,15 @@ input_data = pd.DataFrame({'efficiency_percent': [eff],
                            'region': [region]
                            })
 
-
 x = pipeline.transform(input_data)
 
 pred = pretrained_rfr.predict(x)[0]
 
+
+
 st.write(
 '''
-## Expected price:
+### Expected price:
 '''
 f'EUR  {np.round(float(pred), 3):,}'
 )

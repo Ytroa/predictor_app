@@ -14,7 +14,7 @@ import streamlit as st
 
 st.write(
 '''
-## Solar Panel Dataset
+## Dataset
 
 ''')
 
@@ -24,7 +24,7 @@ st.write(
 # data = pd.read_csv(data_url)
 # -------------
 
-data = pd.read_pickle("../data/solar_clean.pickle")
+data = pd.read_pickle("../solar_clean.pickle")
 data = data.rename(columns={'brand_bucketed': 'brand',
                             'panel_type_bucketed': 'panel_type',
                             'region_bucketed': 'region',
@@ -49,7 +49,7 @@ import seaborn as sns
 
 st.write(
 '''
-## Show me where they are made
+## Manufacturing regions
 '''
 )
 
@@ -67,7 +67,7 @@ if st.checkbox('Show regions'):
 
 st.write(
 '''
-## Show me the price range
+## Price range
 '''
 )
 
@@ -155,7 +155,7 @@ rfr_fitted = rfr.fit(X_train, y_train)
 
 st.write(
 '''
-## Show me what price to expect for my model
+## Calculate predicted price 
 '''
 )
 
@@ -180,8 +180,14 @@ x = pipeline.transform(input_data)
 
 pred = rfr_fitted.predict(x)[0]
 
+
 st.write(
-f'Predicted  Price of Solar Panel: EUR  {np.round(float(pred), 3):,}'
+'''
+### Predicted price for these specifications per panel: 
+'''
+)
+st.write(
+f' EUR  {np.round(float(pred), 3):,}'
 )
 
 

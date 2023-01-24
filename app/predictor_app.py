@@ -14,15 +14,10 @@ import streamlit as st
 
 st.write(
 '''
-## Dataset
+## Solar Panel Dataset
 
 ''')
 
-# alt for cloud storage
-# @st.cache # so that we don't have to load data every time
-# data_url = ('https://...')
-# data = pd.read_csv(data_url)
-# -------------
 
 data = pd.read_pickle("../solar_clean.pickle")
 data = data.rename(columns={'brand_bucketed': 'brand',
@@ -32,7 +27,7 @@ data = data.rename(columns={'brand_bucketed': 'brand',
 
 data.drop(['power_wp', 'dimension_sqm'], axis=1, inplace=True)
 
-# drop NA's
+# drop NA's again just in case
 data_clean = data.dropna()
 
 
@@ -49,7 +44,7 @@ import seaborn as sns
 
 st.write(
 '''
-## Manufacturing regions
+## Show me where they are made
 '''
 )
 
@@ -67,7 +62,7 @@ if st.checkbox('Show regions'):
 
 st.write(
 '''
-## Price range
+## Show me the price range
 '''
 )
 
@@ -111,43 +106,22 @@ pipeline = ColumnTransformer([("cat", OneHotEncoder(drop='first'), X_cat)],
                                  remainder='passthrough'
                              )
 
-# if I just fit I get an error "singleton array array(ColumnTransformer(..)
-# cannot be considered a valid collection"
 X_prepped = pipeline.fit_transform(X)
 
 
-
-# train-test split
-# TO DO before deploying app, use all data to train model
-X_train, X_test, y_train, y_test = train_test_split(X_prepped, y,
-                                                    test_size=.2,
-                                                    random_state=41)
-
 # train model
-# to cache this, see:
-# https://docs.streamlit.io/library/advanced-features/caching
-# https://towardsdatascience.com/deploying-ml-models-using-streamlit-5d6212453bdd
-# https://discuss.streamlit.io/t/deploy-a-deep-learning-model-as-a-web-app/26216/2
 rfr = RandomForestRegressor()
 
-#new
-#cache this function (check if it works)
+#cache this function 
 #@st.cache
 #def fit_model(model, X, y):
 #    model = model
 #    model_fitted = model.fit(X,y)
 #    return model_fitted
 
-#new
 #rfr_fitted = fit_model(rfr, X_train, y_train)
-#old
-rfr_fitted = rfr.fit(X_train, y_train)    
 
-# TO DO use X_prepped, y instead
-
-
-#we do not need to print the accuracy score here
-#st.write(f'Score: {rfr_fitted.score(X_test, y_test):.3f}')
+rfr_fitted = rfr.fit(X_prepped, y)    
 
 # ---------------------------------------------------------------------------
 # PART - Predictions from User Input
@@ -155,7 +129,7 @@ rfr_fitted = rfr.fit(X_train, y_train)
 
 st.write(
 '''
-## Calculate predicted price 
+## Show me what price to expect for my model
 '''
 )
 
@@ -180,14 +154,8 @@ x = pipeline.transform(input_data)
 
 pred = rfr_fitted.predict(x)[0]
 
-
 st.write(
-'''
-### Predicted price for these specifications per panel: 
-'''
-)
-st.write(
-f' EUR  {np.round(float(pred), 3):,}'
+f'Predicted  Price of Solar Panel: EUR  {np.round(float(pred), 3):,}'
 )
 
 

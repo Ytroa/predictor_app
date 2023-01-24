@@ -6,6 +6,7 @@ Solar panel price monitoring app
 import pandas as pd
 import numpy as np
 import streamlit as st
+import pickle
 
 
 # ---------------------------------------------------------------------------
@@ -14,7 +15,7 @@ import streamlit as st
 
 st.write(
 '''
-## Solar Panel Dataset
+## List of all solar panels
 
 ''')
 
@@ -44,7 +45,7 @@ import seaborn as sns
 
 st.write(
 '''
-## Show me where they are made
+## Manufacturing regions
 '''
 )
 
@@ -62,7 +63,7 @@ if st.checkbox('Show regions'):
 
 st.write(
 '''
-## Show me the price range
+## Price range
 '''
 )
 
@@ -82,7 +83,7 @@ col3.metric("Average price", meanprice,
 
 
 # ---------------------------------------------------------------------------
-# PART 3 - Train Model ------------------------------------------------------
+# PART 3 - Train Model 
 # ---------------------------------------------------------------------------
 
 from sklearn.model_selection import train_test_split
@@ -94,14 +95,14 @@ from sklearn.impute import SimpleImputer
 from sklearn.ensemble import RandomForestRegressor
 
 
-# get features and target
+# get features and target (only if training takes place in app)
 
 X = data_clean.drop(['price_euro'], axis=1)
 y = data_clean['price_euro']
 
 X_cat = list(X.drop(['efficiency_percent', 'weight_kg'], axis=1))
 
-# preprocessing pipeline (only using one-hot encoding for RF)
+# preprocessing pipeline (only if training in app)
 pipeline = ColumnTransformer([("cat", OneHotEncoder(drop='first'), X_cat)],
                                  remainder='passthrough'
                              )
@@ -109,9 +110,12 @@ pipeline = ColumnTransformer([("cat", OneHotEncoder(drop='first'), X_cat)],
 X_prepped = pipeline.fit_transform(X)
 
 
-# train model
-rfr = RandomForestRegressor()
+# load pre-trained model
+pretrained_rfr = pickle.load(open('rfr_model', 'rb'))
 
+
+
+# train model (only if training here in app)
 #cache this function 
 #@st.cache
 #def fit_model(model, X, y):
@@ -120,20 +124,18 @@ rfr = RandomForestRegressor()
 #    return model_fitted
 
 #rfr_fitted = fit_model(rfr, X_train, y_train)
-
-rfr_fitted = rfr.fit(X_prepped, y)    
+#rfr_fitted = rfr.fit(X_prepped, y)    
 
 # ---------------------------------------------------------------------------
-# PART - Predictions from User Input
+# PART 4 - Predictions from User Input
 # ---------------------------------------------------------------------------
 
 st.write(
 '''
-## Show me what price to expect for my model
+## Choose specifications:
 '''
 )
 
-# TO DO check if index=0 should be changed to index of the mode or mean (numeric)
 eff = st.number_input('Efficiency (in %)', value=21)
 brand = st.selectbox('Brand', X['brand'].unique(), index=0)
 panel = st.selectbox('Panel', X['panel_type'].unique(), index=0)
@@ -149,13 +151,16 @@ input_data = pd.DataFrame({'efficiency_percent': [eff],
                            'region': [region]
                            })
 
-#
+
 x = pipeline.transform(input_data)
 
-pred = rfr_fitted.predict(x)[0]
+pred = pretrained_rfr.predict(x)[0]
 
 st.write(
-f'Predicted  Price of Solar Panel: EUR  {np.round(float(pred), 3):,}'
+'''
+## Expected price:
+'''
+f'EUR  {np.round(float(pred), 3):,}'
 )
 
 

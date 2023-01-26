@@ -42,7 +42,7 @@ st.write(
 
 
 #data = pickle.load(open('solar_clean.pickle', 'rb'))
-data = pd.read_csv("solar_clean.csv")
+data = pd.read_csv("solar_clean_new.csv")
 #data = pd.read_pickle("solar_clean.pickle")
 
 data = data.rename(columns={'brand_bucketed': 'brand',

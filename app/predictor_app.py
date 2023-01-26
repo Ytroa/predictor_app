@@ -30,7 +30,7 @@ st.markdown("# Solar Panel Prices")
 # PART 1 Solar Panel Dataset ----------------------------------------------
 # ---------------------------------------------------------------------------
 
-#st.image("solar_panel.png")
+st.image("../solar_panel.png")
 
 st.header("Overview")
 
@@ -40,8 +40,7 @@ st.write(
 
 ''')
 
-
-data = pickle.load(open('../solar_clean.pickle', 'rb'))
+data = pickle.load(open('code_/solar_clean.pickle', 'rb'))
 #data = pd.read_pickle("../solar_clean.pickle")
 data = data.rename(columns={'brand_bucketed': 'brand',
                             'panel_type_bucketed': 'panel_type',

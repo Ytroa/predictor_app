@@ -30,7 +30,7 @@ st.markdown("# Solar Panel Prices")
 # PART 1 Solar Panel Dataset ----------------------------------------------
 # ---------------------------------------------------------------------------
 
-#st.image("../solar_panel.png")
+st.image("../solar_panel.png")
 
 st.header("Overview")
 

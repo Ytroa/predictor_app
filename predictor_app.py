@@ -42,7 +42,7 @@ st.write(
 
 
 #data = pickle.load(open('solar_clean.pickle', 'rb'))
-data = pd.read_csv("solar_clean_new.csv")
+data = pd.read_csv("solar_clean_new.csv", index_col=0)
 #data = pd.read_pickle("solar_clean.pickle")
 
 data = data.rename(columns={'brand_bucketed': 'brand',
@@ -126,8 +126,10 @@ X_prepped = pipeline.fit_transform(X)
 
 
 # load pre-trained model
-#pretrained_rfr = pickle.load(open('rfr_model', 'rb'))
-pretrained_rfr = pd.read_pickle("rfr_model")
+with open('rfr_model', 'rb') as rfr:
+    pretrained_rfr = pickle.load(rfr)
+
+#pretrained_rfr = pd.read_pickle("rfr_model")
 
 
 # train model (only if training here in app)

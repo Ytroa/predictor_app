@@ -1,0 +1,1263 @@
+,efficiency_percent,power_wp,dimension_sqm,weight_kg,price_euro,brand_bucketed,panel_type_bucketed,region_bucketed
+9,20.58,450.0,2.18608,24.0,0.27,Iberian Solar,PERC,Spain
+14,21.3,550.0,2.5855300000000003,28.0,0.271,SpolarPV,Monocrystalline,China
+30,21.3,415.0,1.9527480000000002,21.5,0.228,Other,PERC,Other
+38,20.8,450.0,2.16594,23.9,0.256,Ring Solar,Monocrystalline,China
+52,21.5,455.0,2.1735719999999996,,0.207,Einnova Solarline,Monocrystalline,China
+68,21.32,545.0,2.5560479999999997,28.4,0.276,Austa Energy,Monocrystalline,China
+75,14.9,100.0,0.648,5.8,0.177,Other,Monocrystalline,China
+96,20.5,400.0,1.9527480000000002,20.7,0.256,Ring Solar,Monocrystalline,China
+106,21.2,475.0,2.24466,24.0,0.306,Other,Monocrystalline,Poland
+109,17.7,100.0,0.637,7.3,0.321,Fortunes Solar,Monocrystalline,China
+118,21.16,460.0,2.1735719999999996,23.5,0.276,Austa Energy,Monocrystalline,China
+119,17.52,340.0,1.9403519999999999,22.5,0.27,Iberian Solar,Polycrystalline,Spain
+125,15.9,120.0,0.9916,6.8,0.202,Other,Monocrystalline,China
+140,16.9,150.0,0.9916,,0.276,TPL Solar,Polycrystalline,China
+141,9.0,130.0,1.43,23.2,0.183,Other,Thin film (a-Si),Other
+142,21.0,100.0,0.669231,1.9,0.254,"Omnis Power Co,.Ltd",Thin film (a-Si),United States
+143,19.3,100.0,0.6164,6.9,0.266,Saintek Solar,Monocrystalline,China
+147,22.1,220.0,1.131,4.0,0.887,For Leaves,Monocrystalline,China
+149,19.5,355.0,1.8216899999999998,19.5,0.238,LONGi Solar,Monocrystalline,China
+155,,100.0,1.54,32.0,0.985,Just Solar,Thin film (a-Si),China
+158,,100.0,0.6351,12.0,0.571,Beijing Shanhu (Sangsolar),Other,China
+160,20.12,405.0,2.012016,25.3,0.276,Austa Energy,Monocrystalline,China
+167,11.5,275.0,2.8380300000000003,9.3,1.33,Sinoltech,Thin film (CIS),China
+168,14.0,150.0,1.071315,18.0,0.611,Sinoltech,Thin film (CIS),China
+174,20.58,375.0,1.8216899999999998,23.0,0.276,Austa Energy,Monocrystalline,China
+177,16.5,170.0,1.30492,2.5,1.82,Sinoltech,Thin film (CIS),China
+182,19.4,170.0,0.9916,14.5,0.266,Yahong Energy,Monocrystalline,China
+185,,100.0,0.6396000000000001,2.2,2.27,Topsky Energy,PERC,China
+187,17.0,330.0,1.9403519999999999,25.0,0.248,Ktech Energy,Polycrystalline,China
+191,17.03,250.0,1.4681600000000001,15.0,0.266,EverExceed,Polycrystalline,China
+192,20.5,320.0,1.46286,14.3,0.163,RICH Solar Energy,Monocrystalline,China
+199,19.2,110.0,0.5724,1.9,0.838,SFED,Monocrystalline,China
+207,,,2.245278,26.1,0.29,Jinko Solar,Monocrystalline,Spain
+210,21.28,550.0,2.584386,28.9,0.27,Iberian Solar,PERC,Spain
+214,22.1,120.0,1.0218,2.2,0.887,For Leaves,Monocrystalline,China
+215,24.0,321.0,1.6493400000000003,,0.581,Other,"HJT, Bifacial",China
+218,21.51,550.0,2.5560479999999997,28.4,0.251,Austa Energy,Monocrystalline,China
+223,20.4,200.0,0.9803999999999999,10.3,0.163,RICH Solar Energy,Monocrystalline,China
+224,20.7,400.0,1.95615,21.3,0.163,RICH Solar Energy,Monocrystalline,China
+229,20.14,340.0,1.687368,18.8,0.256,Austa Energy,Monocrystalline,China
+238,19.0,100.0,0.5859,3.5,0.985,SFED,Monocrystalline,China
+244,20.6,180.0,0.99,6.2,0.571,Fortunes Solar,Monocrystalline,China
+245,18.7,360.0,1.9403519999999999,23.0,0.24,Sunket New Energy,Monocrystalline,China
+252,20.5,300.0,1.46286,14.3,0.163,RICH Solar Energy,Monocrystalline,China
+255,17.9,370.0,2.08075,6.8,0.186,Suzhou PV Solar Tech,Monocrystalline,China
+258,20.03,365.0,1.8216899999999998,23.0,0.276,Austa Energy,Monocrystalline,China
+260,,,2.209184,25.0,0.36,Other,Monocrystalline,Spain
+263,15.88,200.0,1.2598399999999998,12.8,0.266,EverExceed,Polycrystalline,China
+267,16.9,275.0,1.6268799999999999,18.5,0.187,Suzhou PV Solar Tech,Polycrystalline,China
+271,19.0,320.0,1.6268799999999999,22.5,0.256,Xuzhou Hengda Electronic,Polycrystalline,China
+281,20.0,330.0,1.6503720000000002,18.4,1.38,Topsky Energy,Monocrystalline,China
+282,19.55,330.0,1.687368,18.8,0.276,Austa Energy,Monocrystalline,China
+283,20.9,540.0,2.584386,28.5,0.266,EverExceed,PERC,China
+285,18.04,350.0,1.9403519999999999,21.0,0.266,EverExceed,Monocrystalline,China
+299,21.58,560.0,2.582107,29.0,0.227,Sunway Solar,Monocrystalline,China
+300,19.76,360.0,1.8216899999999998,19.5,0.276,Austa Energy,Monocrystalline,China
+307,20.24,440.0,2.1735719999999996,23.5,0.276,Austa Energy,Monocrystalline,China
+322,20.4,415.0,2.034,27.0,1.38,Topsky Energy,Monocrystalline,China
+326,21.0,100.0,0.1775,1.23,0.493,Other,Monocrystalline,China
+331,14.89,190.0,1.27664,15.0,0.291,Austa Energy,Monocrystalline,China
+338,18.3,300.0,1.6268799999999999,18.5,0.246,TPL Solar,Monocrystalline,China
+342,,,2.1424000000000003,24.5,0.217,Other,Monocrystalline,China
+345,19.56,330.0,1.687368,19.0,0.202,Macro-solar,Monocrystalline,China
+347,18.3,300.0,1.6268799999999999,18.5,0.256,TPL Solar,PERC,China
+348,16.66,110.0,0.66,7.7,0.345,Austa Energy,Monocrystalline,China
+349,17.13,170.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+355,16.8,275.0,1.6268799999999999,,0.246,TPL Solar,Polycrystalline,China
+360,18.44,300.0,1.6268799999999999,18.0,0.266,EverExceed,Monocrystalline,China
+361,17.8,120.0,0.677025,8.5,0.321,Fortunes Solar,Monocrystalline,China
+366,20.4,415.0,2.03312,22.5,0.31,CSI Solar,PERC,Spain
+370,14.85,100.0,0.6733499999999999,7.3,0.266,EverExceed,Polycrystalline,China
+372,19.85,335.0,1.687368,18.8,0.276,Austa Energy,Monocrystalline,China
+373,21.3,550.0,2.584386,27.0,0.212,Einnova Solarline,Monocrystalline,China
+382,20.2,400.0,1.98,22.5,0.227,TPL Solar,PERC,China
+383,19.55,330.0,1.687368,21.2,0.276,Austa Energy,Monocrystalline,China
+387,19.0,200.0,1.2684000000000002,5.1,0.985,SFED,Monocrystalline,China
+390,18.14,180.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+391,22.4,110.0,0.5724,2.1,0.887,For Leaves,Monocrystalline,China
+396,,150.0,0.82775,9.11,0.276,Ring Solar,Monocrystalline,China
+397,17.2,335.0,1.9305,23.0,0.234,Fortunes Solar,Polycrystalline,China
+400,18.04,350.0,1.982958,20.5,0.197,Einnova Solarline,Polycrystalline,China
+401,20.9,540.0,2.584386,28.5,0.246,Csunpower,Monocrystalline,China
+410,14.92,100.0,0.67,,0.197,Rarlon PV TECH,Polycrystalline,China
+415,15.66,200.0,1.27664,15.0,0.291,Austa Energy,Monocrystalline,China
+440,15.89,120.0,0.75484,8.5,0.32,Austa Energy,Monocrystalline,China
+442,16.66,200.0,1.2003199999999998,12.3,0.266,EverExceed,Polycrystalline,China
+451,21.3,160.0,0.9882500000000001,,0.64,For Leaves,Monocrystalline,China
+453,,100.0,0.646495,8.0,0.266,Sunlike Solar,Monocrystalline,China
+458,18.65,185.0,0.99198,11.0,0.296,Austa Energy,Polycrystalline,China
+459,22.0,200.0,0.9916,22.0,0.266,Yahong Energy,Monocrystalline,China
+462,21.4,150.0,0.7955999999999999,3.3,0.163,RICH Solar Energy,Monocrystalline,China
+469,,200.0,1.08185,12.38,0.276,Ring Solar,Monocrystalline,China
+472,21.0,120.0,0.7504000000000001,5.44,0.493,Other,Monocrystalline,China
+474,19.85,335.0,1.687368,21.2,0.276,Austa Energy,Monocrystalline,China
+475,21.05,550.0,2.612864,28.6,0.258,Macro-solar,PERC,China
+480,20.09,390.0,1.9403519999999999,21.0,0.33,Iberian Solar,PERC,Spain
+483,23.0,200.0,0.9803999999999999,15.0,0.248,Zonergy,Monocrystalline,China
+493,,,2.578716,29.4,0.31,Jinko Solar,Monocrystalline,Spain
+498,17.03,250.0,1.4681600000000001,17.0,0.259,Sunket New Energy,Monocrystalline,China
+499,15.37,250.0,1.6268799999999999,18.0,0.266,EverExceed,Polycrystalline,China
+510,,,2.410074,30.1,0.256,Trina Solar,Bifacial,China
+514,16.96,115.0,0.67802,8.0,0.345,Austa Energy,Monocrystalline,China
+515,20.14,340.0,1.687368,21.2,0.276,Austa Energy,Monocrystalline,China
+528,22.0,200.0,0.8911,,0.296,Other,"HJT, Bifacial",China
+540,19.9,395.0,1.98396,22.3,0.276,Austa Energy,Monocrystalline,China
+545,17.81,260.0,1.4681600000000001,17.0,0.259,Sunket New Energy,Monocrystalline,China
+561,21.51,550.0,2.5560479999999997,28.4,0.276,Austa Energy,Monocrystalline,China
+562,17.1,280.0,1.6368,18.4,0.227,Austa Energy,Polycrystalline,China
+576,19.88,400.0,2.012016,25.3,0.276,Austa Energy,Monocrystalline,China
+577,20.2,160.0,0.7904,8.3,0.163,RICH Solar Energy,Monocrystalline,China
+579,20.9,635.0,3.068565,34.0,0.197,Rarlon PV TECH,Monocrystalline,China
+583,20.58,450.0,2.18608,24.0,0.28,Iberian Solar,PERC,Spain
+587,14.64,145.0,0.9903420000000001,11.0,0.276,Resun Solar,Polycrystalline,China
+588,21.4,410.0,1.946496,21.0,0.212,Einnova Solarline,Monocrystalline,China
+598,19.76,360.0,1.8216899999999998,23.0,0.256,Austa Energy,Monocrystalline,China
+606,20.6,455.0,2.209184,24.9,1.48,Topsky Energy,PERC,China
+609,21.0,500.0,2.374596,26.1,0.256,Ring Solar,Monocrystalline,China
+617,20.03,365.0,1.8216899999999998,19.5,0.276,Austa Energy,Monocrystalline,China
+619,15.62,155.0,0.99198,11.0,0.296,Austa Energy,Polycrystalline,China
+626,15.36,250.0,1.6268799999999999,15.0,0.276,Yahong Energy,Monocrystalline,China
+630,,,1.7922,19.9,0.218,Other,Monocrystalline,China
+632,,,1.982958,22.5,0.229,Jinko Solar,PERC,China
+636,16.13,160.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+637,20.85,380.0,1.8216899999999998,23.0,0.276,Austa Energy,Monocrystalline,China
+639,17.41,285.0,1.6368,18.4,0.232,Austa Energy,Polycrystalline,China
+643,,,1.984,26.5,0.187,CSI Solar,Polycrystalline,China
+647,20.3,480.0,2.374596,26.3,0.236,Beijing Shanhu (Sangsolar),Monocrystalline,China
+651,16.76,140.0,0.835,9.5,0.296,Austa Energy,Polycrystalline,China
+653,20.2,450.0,2.1735719999999996,23.5,0.246,Olive Solar,Monocrystalline,China
+683,20.9,540.0,2.583252,28.6,0.281,Other,Monocrystalline,China
+686,15.27,195.0,1.27664,15.0,0.291,Austa Energy,Monocrystalline,China
+690,24.0,110.0,0.58,3.5,0.887,For Leaves,Monocrystalline,China
+695,18.14,180.0,0.99198,11.0,0.296,Austa Energy,Polycrystalline,China
+698,20.42,345.0,0.1686,19.0,0.197,Other,Monocrystalline,China
+722,,,2.012016,22.0,0.238,Jinko Solar,PERC,China
+726,21.38,605.0,2.830116,30.9,0.246,Resun Solar,Monocrystalline,China
+730,22.4,405.0,1.961124,22.3,0.276,Other,PERC,Other
+737,16.21,130.0,0.8016,9.1,0.32,Austa Energy,Monocrystalline,China
+751,20.8,450.0,2.190324,25.5,0.471,Other,PERC,Other
+763,18.7,360.0,1.9403519999999999,23.0,0.244,Sunket New Energy,Monocrystalline,China
+767,15.3,190.0,0.9916,14.5,0.266,Yahong Energy,Monocrystalline,China
+768,20.6,455.0,2.1819,25.0,0.266,Beijing Shanhu (Sangsolar),Monocrystalline,China
+769,18.65,185.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+771,21.3,550.0,2.584386,28.6,0.254,Sunket New Energy,Bifacial,China
+777,20.9,380.0,1.8216899999999998,19.5,1.38,Topsky Energy,Monocrystalline,China
+779,19.3,100.0,0.5168,6.3,0.163,RICH Solar Energy,Monocrystalline,China
+783,,,1.884132,24.0,0.297,LONGi Solar,"Bifacial, PERC",Spain
+810,16.6,270.0,1.6268799999999999,20.0,0.217,Sunket New Energy,Polycrystalline,China
+812,18.84,300.0,1.6268799999999999,16.6,0.266,EverExceed,Monocrystalline,China
+814,20.39,440.0,2.157937,25.2,0.272,CETC Solar,"Bifacial, PERC",China
+823,16.76,140.0,0.835,9.5,0.32,Austa Energy,Monocrystalline,China
+824,22.0,200.0,1.29954,6.3,0.985,"Omnis Power Co,.Ltd",Monocrystalline,United States
+826,20.24,440.0,2.1735719999999996,27.5,0.276,Austa Energy,Monocrystalline,China
+841,,,2.015,23.0,0.227,Other,Monocrystalline,China
+850,15.48,105.0,0.67802,8.0,0.315,Austa Energy,Polycrystalline,China
+860,19.76,365.0,1.8216899999999998,,0.246,PolyCrown Solar Tech,Monocrystalline,China
+863,,,1.309748,32.3,0.241,LONGi Solar,Bifacial,China
+866,,,2.69844,30.3,0.251,Jinko Solar,Monocrystalline,China
+872,16.2,200.0,1.3068,15.0,0.263,Fortunes Solar,Polycrystalline,China
+873,,,2.245278,25.0,0.29,Jinko Solar,Monocrystalline,Spain
+874,17.2,,0.34952000000000005,1.3,0.294,Suzhou PV Solar Tech,Monocrystalline,China
+885,,100.0,0.72963,10.1,0.296,Other,Polycrystalline,India
+886,15.1,150.0,0.9768,11.2,0.307,Fortunes Solar,Polycrystalline,China
+915,16.89,180.0,0.9916,11.0,0.266,Yahong Energy,Monocrystalline,China
+924,20.31,370.0,1.8216899999999998,19.5,0.276,Austa Energy,Monocrystalline,China
+925,21.25,460.0,2.1727440000000002,23.5,0.207,Einnova Solarline,Monocrystalline,China
+928,21.3,300.0,1.6137,,0.64,For Leaves,Monocrystalline,China
+933,20.58,375.0,1.8216899999999998,19.5,0.261,Austa Energy,Monocrystalline,China
+936,15.1,150.0,0.85598,9.5,0.273,Sunket New Energy,Monocrystalline,China
+939,17.4,100.0,0.5724,1.9,0.788,SFED,Monocrystalline,China
+948,16.63,165.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+949,,330.0,1.7204000000000002,19.6,0.276,Ring Solar,Monocrystalline,China
+961,,,1.685,18.7,0.227,Other,Monocrystalline,China
+970,14.93,100.0,0.67,,0.296,Rarlon PV TECH,Monocrystalline,China
+974,17.04,330.0,1.9403519999999999,,0.246,TPL Solar,Polycrystalline,China
+983,17.22,335.0,1.9443199999999998,22.2,0.296,Austa Energy,Polycrystalline,China
+988,19.46,500.0,2.56236,29.0,0.305,Other,Monocrystalline,China
+991,21.0,180.0,0.096,2.5,0.296,Other,Monocrystalline,China
+998,20.58,450.0,2.18608,24.0,0.285,Iberian Solar,PERC,Spain
+1002,15.44,100.0,0.6834,7.0,0.3,Resun Solar,Monocrystalline,China
+1004,,,2.27556,25.0,0.241,Jinko Solar,Monocrystalline,China
+1007,21.12,540.0,2.5560479999999997,28.4,0.276,Austa Energy,Monocrystalline,China
+1011,18.0,200.0,1.092,14.7,0.263,Fortunes Solar,Monocrystalline,China
+1012,21.3,200.0,1.0920999999999998,,0.64,For Leaves,Monocrystalline,China
+1014,19.0,150.0,1.0064,3.5,0.296,Hanfy New Energy Technology,Monocrystalline,China
+1017,20.7,450.0,2.1735719999999996,23.5,0.246,Austa Energy,Monocrystalline,China
+1019,16.96,115.0,0.67802,8.0,0.315,Austa Energy,Polycrystalline,China
+1026,18.66,370.0,1.982958,22.5,0.277,Fortunes Solar,PERC,China
+1029,16.31,100.0,0.6130500000000001,6.4,0.266,EverExceed,Monocrystalline,China
+1037,20.37,410.0,2.012016,25.3,0.246,Austa Energy,Monocrystalline,China
+1040,16.21,130.0,0.8016,9.1,0.296,Austa Energy,Polycrystalline,China
+1042,18.6,100.0,0.567,1.9,1.08,Other,Monocrystalline,China
+1044,18.1,150.0,0.8295,11.2,0.263,Fortunes Solar,Monocrystalline,China
+1053,19.88,450.0,2.1735719999999996,25.0,0.266,Macro-solar,PERC,China
+1057,24.0,152.0,1.00965,1.4,1.08,Other,"HJT, Bifacial",China
+1061,17.36,145.0,0.835,9.5,0.296,Austa Energy,Polycrystalline,China
+1064,16.13,160.0,0.99198,11.0,0.296,Austa Energy,Polycrystalline,China
+1065,22.4,200.0,0.8911,9.0,0.325,SFED,Monocrystalline,China
+1070,15.12,150.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+1072,15.16,150.0,0.9903420000000001,11.5,0.281,Resun Solar,Monocrystalline,China
+1079,17.36,145.0,0.835,9.5,0.32,Austa Energy,Monocrystalline,China
+2162,18.3,300.0,1.64328,20.0,0.237,Sunket New Energy,Monocrystalline,China
+2164,20.18,350.0,1.9403519999999999,23.0,0.227,TPL Solar,Monocrystalline,China
+2165,19.65,390.0,1.98396,22.3,0.276,Austa Energy,Monocrystalline,China
+2172,19.78,330.0,1.6683299999999999,19.0,0.261,Macro-solar,Monocrystalline,China
+2178,21.55,610.0,2.830116,30.9,0.246,Resun Solar,Monocrystalline,China
+2181,21.0,100.0,0.630875,4.57,0.493,Other,Monocrystalline,China
+2183,19.0,100.0,0.567,2.5,0.296,Hanfy New Energy Technology,Monocrystalline,China
+2184,16.5,200.0,0.323675,7.2,1.13,Other,Monocrystalline,China
+2190,15.89,120.0,0.75484,8.5,0.305,Austa Energy,Polycrystalline,China
+2201,19.15,190.0,0.99198,11.0,0.291,Austa Energy,Monocrystalline,China
+2202,16.16,135.0,0.835,9.5,0.296,Austa Energy,Polycrystalline,China
+2203,23.0,100.0,0.5168,8.0,0.253,Zonergy,Monocrystalline,China
+2211,21.3,180.0,0.9882500000000001,,0.64,For Leaves,Monocrystalline,China
+2213,19.7,120.0,0.608,7.3,0.163,RICH Solar Energy,Monocrystalline,China
+2217,20.6,360.0,1.7463600000000001,18.8,0.163,RICH Solar Energy,Monocrystalline,China
+2220,16.24,160.0,0.9849,2.8,0.493,Betop (EU) Tech,Monocrystalline,Germany
+2225,19.0,160.0,0.84376,2.68,0.788,SFED,Monocrystalline,China
+2230,20.37,410.0,2.012016,22.5,0.276,Austa Energy,Monocrystalline,China
+2243,,,2.012016,22.0,0.204,Jinko Solar,PERC,China
+2244,14.66,110.0,0.7504000000000001,8.3,0.3,Resun Solar,Polycrystalline,China
+2249,,100.0,0.6666,8.0,0.246,Sunlike Solar,Polycrystalline,China
+2250,23.83,460.0,2.17984,24.0,0.232,PolyCrown Solar Tech,PERC,China
+2251,,170.0,1.0335999999999999,3.3,2.27,Topsky Energy,Monocrystalline,China
+2252,17.1,280.0,1.6268799999999999,,0.246,TPL Solar,Polycrystalline,China
+2255,15.8,100.0,0.6534,7.5,0.307,Fortunes Solar,Polycrystalline,China
+2259,17.13,170.0,0.99198,11.0,0.296,Austa Energy,Polycrystalline,China
+2265,,,2.245278,25.0,0.222,Jinko Solar,Monocrystalline,China
+2271,20.3,375.0,1.8497199999999998,20.5,0.29,CSI Solar,PERC,Spain
+2284,20.12,405.0,2.012016,22.5,0.276,Austa Energy,Monocrystalline,China
+2295,17.52,340.0,1.9403519999999999,21.0,0.266,EverExceed,Polycrystalline,China
+2298,,100.0,0.6834,10.0,0.266,Macro-solar,Monocrystalline,China
+2299,19.51,500.0,2.56236,32.0,0.236,PolyCrown Solar Tech,Monocrystalline,China
+2301,20.18,400.0,1.981952,21.0,0.266,Macro-solar,PERC,China
+2306,17.4,100.0,0.5724,1.9,0.493,SFED,Monocrystalline,China
+2310,20.1,340.0,1.6616000000000002,19.0,0.236,TPL Solar,Monocrystalline,China
+2312,21.1,395.0,1.8764399999999999,19.0,0.3,Other,Monocrystalline,Poland
+2314,,,2.578716,29.4,0.248,Jinko Solar,Monocrystalline,China
+2316,16.8,275.0,1.6368,18.4,0.236,Austa Energy,Polycrystalline,China
+2320,15.67,200.0,1.27664,13.2,0.266,EverExceed,Monocrystalline,China
+2321,,100.0,0.665,7.5,0.292,Topsky Energy,Polycrystalline,China
+2328,24.0,114.0,0.7239,0.9,1.08,Other,"HJT, Bifacial",China
+2332,16.8,200.0,1.31936,,0.227,TPL Solar,Monocrystalline,China
+2335,20.2,200.0,1.264,,0.64,For Leaves,Monocrystalline,China
+2338,18.7,120.0,0.6399,2.25,0.838,SFED,Monocrystalline,China
+2339,21.35,590.0,2.7633870000000003,30.7,0.256,Austa Energy,Monocrystalline,China
+2341,19.78,430.0,2.1735719999999996,27.5,0.256,Austa Energy,Monocrystalline,China
+2346,18.5,135.0,0.7101000000000001,2.5,0.788,SFED,Monocrystalline,China
+2347,23.1,250.0,1.2324000000000002,,0.887,For Leaves,Monocrystalline,China
+2352,,110.0,0.567,1.9,1.03,Other,Monocrystalline,China
+2358,20.7,240.0,1.1628,14.3,0.163,RICH Solar Energy,Monocrystalline,China
+2359,15.04,100.0,0.665,7.5,0.266,Sunket New Energy,Polycrystalline,China
+2324,20.55,100.0,0.648,,0.241,Oushang Photovoltaic,Monocrystalline,China
+170,,220.0,1.662857e-06,,0.254,"Omnis Power Co,.Ltd",Thin film (CIS),United States
+173,10.0,225.0,2.0475839999999996,4.4,3.89,Sinoltech,Thin film (CIS),China
+235,,165.0,0.9849,12.0,0.266,Macro-solar,Monocrystalline,China
+270,,357.5,1.962176,28.0,0.197,Macro-solar,Monocrystalline,China
+296,,150.0,0.9956250000000001,14.5,0.266,For Leaves,Polycrystalline,China
+402,14.0,190.0,1.3165020000000003,15.0,0.296,Other,Polycrystalline,India
+536,,135.0,0.9916,11.0,0.227,Sunlike Solar,Polycrystalline,China
+563,,197.5,1.27664,15.0,0.256,Sunlike Solar,Monocrystalline,China
+780,22.1,225.0,1.7922,16.0,0.6,Other,"PERC, Bifacial",Other
+849,,110.0,0.7854,10.0,0.266,Sunlike Solar,Monocrystalline,China
+1024,,297.5,1.6268799999999999,18.0,0.227,Macro-solar,Monocrystalline,China
+1025,,165.0,0.9849,12.0,0.256,Macro-solar,Polycrystalline,China
+2180,20.9,445.0,2.1735719999999996,24.0,0.236,Other,Monocrystalline,China
+2261,,340.0,1.9344,23.0,0.172,Macro-solar,Polycrystalline,China
+1,20.795,537.5,2.584386,28.5,0.256,Sunlike Solar,Monocrystalline,China
+2,20.45,400.0,1.9527480000000002,22.0,0.263,Other,Monocrystalline,China
+3,20.85,495.0,2.374596,26.8,0.276,Solargiga Energy,"PERC, Bifacial",China
+4,20.55,385.0,1.8764399999999999,20.5,0.315,AE Solar,Monocrystalline,Germany
+5,21.0,652.5,3.106352,33.9,0.282,Am Solar,Monocrystalline,China
+6,20.915,490.0,2.34384,25.0,0.32,Other,Monocrystalline,China
+7,19.9,367.5,1.824484,20.0,0.256,SunLink PV,PERC,China
+8,20.455,400.0,1.955016,21.5,0.276,Austa Energy,Monocrystalline,China
+10,19.560000000000002,325.0,1.661316,19.5,0.261,East Lux Energy,Monocrystalline,China
+11,20.89,540.0,2.584386,29.0,0.18,Sunergy Solar,Monocrystalline,China
+12,20.8,537.5,2.584386,28.6,0.246,JA Solar,PERC,China
+13,20.240000000000002,440.0,2.22498,24.0,0.253,ReneSola,Monocrystalline,China
+15,19.7,332.5,1.687368,19.0,0.274,Horay Solar,Monocrystalline,China
+16,17.700000000000003,235.0,1.005,12.2,0.192,Other,Monocrystalline,China
+17,21.060000000000002,545.0,2.584386,28.3,0.261,Ulica Solar,Monocrystalline,China
+18,20.935000000000002,542.5,2.59119,31.6,0.25,Solarspace,PERC,China
+19,20.700000000000003,535.0,2.584386,31.4,0.215,JF Solar Technology,Bifacial,China
+20,21.35,662.5,3.106352,40.0,0.261,Csunpower,"PERC, Bifacial",China
+21,16.495,320.0,1.9403519999999999,23.0,0.182,PolyCrown Solar Tech,Polycrystalline,China
+22,20.8,537.5,2.584386,28.6,0.279,JA Solar,PERC,Czech Republic
+23,20.805,537.5,2.583252,28.5,0.305,Other,Monocrystalline,Germany
+24,20.45,400.0,1.955016,22.1,0.188,GPPV New Energy,Monocrystalline,China
+25,19.715,435.0,2.22498,25.0,0.202,Hershey-Power,Monocrystalline,China
+26,20.740000000000002,405.0,1.9527480000000002,21.5,0.264,CETC Solar,Monocrystalline,China
+27,19.799999999999997,335.0,1.695384,19.0,0.253,Olive Solar,Monocrystalline,China
+28,20.37,450.0,2.1735719999999996,24.5,0.225,Sunway Solar,Monocrystalline,China
+29,20.8,537.5,2.584386,28.5,0.172,RICH Solar Energy,PERC,China
+31,21.1,597.5,2.830116,30.9,0.222,"Omnis Power Co,.Ltd",Monocrystalline,United States
+32,20.895000000000003,540.0,2.584386,29.0,0.256,Sunpro Power,PERC,China
+33,21.87,565.0,2.583252,28.0,0.276,Jinko Solar,Monocrystalline,China
+34,20.14,367.5,1.824484,20.0,0.268,Luxen Solar Energy,Monocrystalline,China
+35,21.2,547.5,2.583252,27.0,0.241,Solardeland,Monocrystalline,Germany
+36,20.7,535.0,2.584386,29.0,0.242,Zonergy,Monocrystalline,China
+37,20.795,537.5,2.584386,29.0,0.236,Amerisolar,Monocrystalline,China
+39,20.65,497.5,2.410074,26.5,0.356,Trina Solar,Monocrystalline,Spain
+40,21.0,542.5,2.584386,28.6,1.38,Topsky Energy,PERC,China
+41,20.48,445.0,2.1735719999999996,23.5,0.223,Sunrise,Monocrystalline,China
+42,21.315,460.0,2.1580019999999998,23.5,0.261,DAH Solar,Monocrystalline,China
+43,20.6,457.5,2.2218240000000002,24.5,0.29,JA Solar,PERC,Poland
+44,20.049999999999997,370.0,1.8497199999999998,20.0,0.31,Other,Monocrystalline,Germany
+45,19.88,400.0,2.012016,22.5,0.264,Resun Solar,Monocrystalline,China
+46,20.700000000000003,535.0,2.584386,28.2,0.218,RECOM,"PERC, Bifacial",France
+47,20.924999999999997,540.0,2.584386,28.0,0.256,Ktech Energy,PERC,China
+48,17.4,350.0,2.012016,22.5,0.286,JS Solar,Polycrystalline,China
+49,18.700000000000003,362.5,1.9403519999999999,22.5,0.246,Evolve India Solar,PERC,India
+50,20.795,537.5,2.584386,28.6,0.248,Other,Monocrystalline,China
+51,20.115000000000002,445.0,2.209184,24.5,0.242,Other,PERC,China
+53,20.384999999999998,445.0,2.1829389999999997,25.0,0.28,Other,PERC,Poland
+54,19.700000000000003,450.0,2.1798,,0.256,Oushang Photovoltaic,Monocrystalline,China
+55,20.65,402.5,1.9527480000000002,20.5,0.25,Sunket New Energy,Monocrystalline,China
+56,18.8,347.5,1.868352,20.0,0.227,Fortunes Solar,Monocrystalline,China
+57,21.25,660.0,3.106352,35.7,0.256,Hiwatt Solar,Monocrystalline,China
+58,20.45,400.0,1.9527480000000002,22.5,0.26,ERA Solar,Monocrystalline,China
+59,20.46,400.0,1.955016,21.0,0.205,Tide Solar,PERC,China
+60,21.185000000000002,547.5,2.584386,28.6,0.241,TPL Solar,PERC,China
+61,20.05,442.5,2.209184,24.0,0.212,Just Solar,Monocrystalline,China
+63,20.93,585.0,2.7953099999999997,31.6,0.276,Solargiga Energy,"PERC, Bifacial",China
+64,21.05,395.0,1.8764399999999999,20.5,0.302,AE Solar,PERC,Germany
+65,20.7,535.0,2.584386,28.5,0.282,Am Solar,Monocrystalline,China
+66,20.93,540.0,2.5809740000000003,27.3,0.302,Other,Monocrystalline,China
+67,20.35,442.5,2.1735719999999996,23.0,0.256,SunLink PV,PERC,China
+69,20.450000000000003,452.5,2.209184,24.3,0.29,CSI Solar,PERC,Spain
+70,19.85,445.0,2.241812,28.0,0.251,East Lux Energy,Monocrystalline,China
+71,20.255000000000003,447.5,2.209184,24.5,0.182,Sunergy Solar,Monocrystalline,China
+72,21.645,605.0,2.7953099999999997,30.6,0.256,Jinko Solar,Monocrystalline,China
+73,21.095,545.0,2.584386,28.6,0.253,ReneSola,Monocrystalline,China
+74,19.95,440.0,2.1767050000000006,24.0,0.264,Horay Solar,Monocrystalline,China
+76,20.0,370.0,1.8497199999999998,20.2,0.259,Ulica Solar,Monocrystalline,China
+77,20.490000000000002,400.0,1.9527480000000002,22.0,0.257,Solarspace,PERC,China
+78,20.9,535.0,2.584386,27.2,0.212,JF Solar Technology,Monocrystalline,China
+79,21.475,390.0,1.8216899999999998,22.2,0.291,Csunpower,Other,China
+80,20.990000000000002,542.5,2.584386,28.4,0.227,PolyCrown Solar Tech,Monocrystalline,China
+81,20.95,455.0,2.1735719999999996,24.3,0.289,LONGi Solar,Monocrystalline,Czech Republic
+82,19.83,387.5,1.9527480000000002,22.0,0.323,Other,Monocrystalline,Germany
+83,20.65,497.5,2.39913,26.5,0.27,GPPV New Energy,Monocrystalline,China
+84,20.225,412.5,2.1735719999999996,23.0,0.205,Hershey-Power,Monocrystalline,China
+85,20.795,537.5,2.584386,28.6,0.248,CETC Solar,Monocrystalline,China
+86,20.25,440.0,2.1735719999999996,23.5,0.247,Olive Solar,PERC,China
+87,20.355,442.5,2.1735719999999996,25.0,0.163,RICH Solar Energy,Monocrystalline,China
+88,20.8,537.5,2.584386,28.6,0.256,Other,PERC,Other
+89,21.275,462.5,2.1735719999999996,27.5,0.222,"Omnis Power Co,.Ltd","HJT, Bifacial",United States
+90,20.775,450.0,2.16594,29.0,0.256,Sunpro Power,PERC,China
+91,21.68,560.0,2.583252,32.0,0.276,Jinko Solar,Bifacial,China
+92,20.28,370.0,1.824484,20.0,0.261,Luxen Solar Energy,Monocrystalline,China
+93,21.5,465.0,2.1735719999999996,23.0,0.236,Solardeland,Monocrystalline,Germany
+94,20.555,445.0,2.164806,25.0,0.252,Zonergy,Monocrystalline,China
+95,20.555,375.0,1.824484,20.0,0.251,Amerisolar,Monocrystalline,China
+97,21.12,545.0,2.5809740000000003,28.0,0.2,Sunrise,Monocrystalline,China
+98,20.990000000000002,542.5,2.584386,29.0,0.251,DAH Solar,Monocrystalline,China
+99,19.95,415.0,2.0759980000000002,24.0,0.325,Other,PERC,Poland
+100,20.299999999999997,450.0,2.209184,24.0,0.31,Other,Monocrystalline,Germany
+101,19.805,437.5,2.22498,25.0,0.251,Resun Solar,Monocrystalline,China
+102,20.25,455.0,2.24466,24.5,0.269,RECOM,"Bifacial, PERC",France
+103,20.145,405.0,2.012016,22.5,0.276,JS Solar,Monocrystalline,China
+104,20.685,535.0,2.5877999999999997,28.6,0.246,Evolve India Solar,PERC,India
+105,20.9,540.0,2.584386,28.5,0.207,Einnova Solarline,PERC,China
+107,20.15,340.0,2.00694,,0.256,Oushang Photovoltaic,Monocrystalline,China
+108,20.8,537.5,2.584386,28.6,0.256,Sunket New Energy,Monocrystalline,China
+110,20.9,540.0,2.584386,28.6,0.236,Hiwatt Solar,Monocrystalline,China
+111,20.125,437.5,2.1735719999999996,24.0,0.249,ERA Solar,Monocrystalline,China
+112,20.240000000000002,440.0,2.1735719999999996,25.0,0.192,Tide Solar,PERC,China
+113,21.25,660.0,3.106352,33.9,0.246,TPL Solar,PERC,China
+115,20.85,590.0,2.830116,31.0,0.282,Am Solar,Monocrystalline,China
+116,20.7,405.0,1.9596600000000002,21.0,0.32,Other,Monocrystalline,China
+117,21.0,542.5,2.584386,28.0,0.256,SunLink PV,PERC,China
+120,20.925,585.0,2.7956200000000004,31.0,0.251,East Lux Energy,Monocrystalline,China
+121,21.245,660.0,3.106352,34.5,0.19,Sunergy Solar,Monocrystalline,China
+122,21.299999999999997,545.0,2.5560479999999997,27.2,0.246,LONGi Solar,Monocrystalline,China
+123,17.265,335.0,1.9403519999999999,22.0,0.25,ReneSola,Polycrystalline,China
+124,20.0,370.0,1.8216899999999998,20.0,0.271,Horay Solar,Monocrystalline,China
+126,20.93,455.0,2.1735719999999996,24.0,0.259,Ulica Solar,Monocrystalline,China
+127,20.8,537.5,2.584386,28.6,0.247,Solarspace,PERC,China
+128,20.47,445.0,2.1735719999999996,23.5,0.206,JF Solar Technology,Monocrystalline,China
+129,20.75,537.5,2.59119,31.5,0.256,Csunpower,"PERC, Bifacial",China
+130,23.41,455.0,2.584386,24.0,0.232,PolyCrown Solar Tech,"HJT, Bifacial",China
+131,20.55,375.0,1.8216899999999998,19.5,0.289,LONGi Solar,Monocrystalline,Czech Republic
+132,21.255,660.0,3.106352,34.0,0.31,Other,Bifacial,Germany
+133,20.799999999999997,540.0,2.584386,29.0,0.193,GPPV New Energy,Monocrystalline,China
+134,20.8,532.5,2.583252,28.5,0.259,Olive Solar,PERC,China
+135,21.12,545.0,2.576442,30.2,0.261,"Omnis Power Co,.Ltd",Monocrystalline,United States
+136,21.025,595.0,2.830116,30.9,0.256,Sunpro Power,PERC,China
+137,21.465,600.0,2.7953099999999997,34.6,0.276,Jinko Solar,Bifacial,China
+138,20.439999999999998,445.0,2.1767050000000006,23.0,0.254,Luxen Solar Energy,Monocrystalline,China
+139,21.5,597.5,2.78397,29.0,0.241,Solardeland,Monocrystalline,Germany
+144,15.5,475.0,3.3372360000000003,6.6,1.72,Sinoltech,Thin film (CIS),China
+145,21.05,595.0,2.835765,35.9,0.305,CSI Solar,"Bifacial, PERC",Czech Republic
+146,6.65,380.0,5.715201,,0.985,Just Solar,Thin film (a-Si),China
+148,14.9,350.0,2.351537,33.3,0.985,Just Solar,Thin film (CIS),China
+150,18.845,367.5,1.9403519999999999,23.5,0.246,JS Solar,Monocrystalline,China
+151,16.35,125.0,0.898884,,1.2,Beijing Shanhu (Sangsolar),Thin film (CIS),China
+152,15.25,355.0,2.5103400000000002,6.0,1.72,Sinoltech,Thin film (CIS),China
+153,20.95,585.0,2.792845,29.0,0.217,JF Solar Technology,PERC,China
+154,16.7,510.0,3.3372360000000003,6.6,1.72,Sinoltech,Thin film (CIS),China
+156,16.34,267.5,1.6368,18.0,0.187,Sunpro Power,Polycrystalline,China
+157,21.87,565.0,2.583252,28.0,0.261,Jinko Solar,Monocrystalline,China
+159,18.65,412.5,2.209184,24.3,0.261,CSI Solar,PERC,Canada
+161,16.6,245.0,1.66383,,1.2,Beijing Shanhu (Sangsolar),Thin film (CIS),China
+162,16.48,275.0,1.6683299999999999,18.5,0.245,CETC Solar,Polycrystalline,China
+163,17.4,430.0,2.475088,36.0,0.985,Just Solar,Other,China
+164,9.100000000000001,130.0,1.43,26.0,0.985,Just Solar,Thin film (a-Si),China
+165,20.95,592.5,2.830116,30.9,0.271,AE Solar,Bifacial,Germany
+166,20.9,540.0,2.584386,28.6,0.248,Sunket New Energy,Monocrystalline,China
+169,19.7,320.0,1.6683299999999999,18.3,0.22,GPPV New Energy,Monocrystalline,China
+171,20.46,400.0,1.955016,21.5,0.236,Fortunes Solar,PERC,China
+172,16.65,510.0,3.3372360000000003,,1.2,Beijing Shanhu (Sangsolar),Thin film (CIS),China
+175,20.0,442.5,2.2081060000000003,27.0,0.225,Other,"Bifacial, PERC",China
+176,16.7,345.0,2.062866,23.1,0.296,Other,Polycrystalline,China
+178,20.0,490.0,2.44644,27.0,0.261,Powitt Solar,Monocrystalline,China
+179,19.6,330.0,1.6923780000000002,19.0,0.227,Hanfy New Energy Technology,Monocrystalline,China
+180,20.955,585.0,2.791712,29.0,0.264,AE Solar,PERC,Germany
+181,19.4,260.0,1.6268799999999999,,0.232,Oushang Photovoltaic,Polycrystalline,China
+183,20.6,457.5,2.2218240000000002,24.5,0.279,JA Solar,PERC,Czech Republic
+184,21.25,660.0,3.106352,33.5,0.229,Sunrise,Monocrystalline,China
+186,20.049999999999997,365.0,1.82169,19.5,0.253,Olive Solar,Monocrystalline,China
+188,16.1,160.0,1.0064,12.0,0.256,Hanfy New Energy Technology,Polycrystalline,China
+189,20.93,585.0,2.7953099999999997,30.0,0.264,Luxen Solar Energy,Monocrystalline,China
+190,20.585,375.0,1.8216899999999998,19.5,0.276,AE Solar,PERC,Germany
+193,19.9,367.5,1.8497199999999998,20.5,0.31,CSI Solar,PERC,Spain
+194,19.55,330.0,1.687368,19.0,0.21,GPPV New Energy,Monocrystalline,China
+195,18.02,292.5,1.6236,19.0,0.168,Chinaland,Monocrystalline,China
+196,19.65,395.0,2.012016,22.5,0.213,Just Solar,Monocrystalline,China
+197,20.525,445.0,2.168208,24.0,0.245,Amerisolar,Monocrystalline,China
+198,16.9,285.0,1.6923780000000002,19.0,0.227,Hanfy New Energy Technology,Polycrystalline,China
+200,16.61,135.0,0.7448,8.4,0.273,Sunket New Energy,Monocrystalline,China
+201,15.379999999999999,152.5,0.9916,10.8,0.217,TPL Solar,Monocrystalline,China
+202,18.75,305.0,1.6268799999999999,17.6,0.246,Evolve India Solar,PERC,India
+203,15.365,250.0,1.6268799999999999,17.6,0.236,Yahong Energy,Polycrystalline,China
+204,20.7,450.0,2.1735719999999996,24.5,0.272,Solargiga Energy,"PERC, Bifacial",China
+205,16.4,270.0,1.644736,23.5,0.246,JS Solar,Polycrystalline,China
+206,21.245,660.0,3.106352,34.0,0.255,Other,Monocrystalline,China
+208,20.744999999999997,535.0,2.578716,28.0,0.236,Jinko Solar,Bifacial,China
+209,20.35,397.5,1.9527480000000002,21.0,0.261,Olive Solar,PERC,China
+211,16.5,320.0,1.9403519999999999,21.0,0.217,Other,Polycrystalline,China
+212,19.415,385.0,1.982958,22.5,0.248,Himin,Monocrystalline,China
+213,17.05,277.5,1.6268799999999999,18.0,0.236,Betop (EU) Tech,Polycrystalline,Germany
+216,19.655,390.0,0.21780000000000002,22.5,0.235,ReneSola,Monocrystalline,China
+217,20.884999999999998,540.0,2.5854399999999997,29.0,0.251,East Lux Energy,Monocrystalline,China
+219,17.0,337.5,1.98,22.5,0.246,SunLink PV,Polycrystalline,China
+220,19.65,435.0,2.215292,31.5,0.286,Mysolar USA,"Bifacial, PERC",United States
+222,14.85,190.0,1.27664,15.5,0.197,Other,Monocrystalline,United States
+225,21.0,382.5,1.8216899999999998,20.0,0.246,Other,PERC,China
+226,19.060000000000002,310.0,1.6268799999999999,19.0,0.223,ReneSola,Monocrystalline,China
+227,20.27,340.0,1.685232,19.0,0.274,AE Solar,PERC,Germany
+228,19.049999999999997,390.0,2.047248,32.0,0.244,Sunket New Energy,Bifacial,China
+230,16.15,312.5,1.9344,23.0,0.227,TPL Solar,Monocrystalline,China
+231,20.35,397.5,1.9527480000000002,25.0,0.261,Olive Solar,PERC,China
+232,19.075,347.5,1.8216899999999998,19.5,0.251,Csunpower,PERC,China
+233,20.125,400.0,1.98708,21.5,0.345,"Omnis Power Co,.Ltd",Monocrystalline,United States
+234,21.03,537.5,2.5560479999999997,32.5,0.222,Other,Bifacial,China
+236,20.515,407.5,1.9879200000000001,22.5,0.333,Ankara Solar,PERC,Turkey
+237,21.0,542.5,2.584386,29.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+239,20.59,445.0,2.1617640000000002,24.0,0.254,Ktech Energy,PERC,China
+240,20.700000000000003,442.5,2.1413699999999998,25.52,0.256,Olive Solar,Monocrystalline,China
+241,16.905,275.0,1.6268799999999999,18.5,0.3,Iberian Solar,Polycrystalline,Spain
+242,19.695,535.0,2.65577,26.8,0.253,Beijing Shanhu (Sangsolar),Monocrystalline,China
+243,20.55,375.0,1.8216899999999998,19.5,0.215,LONGi Solar,Monocrystalline,China
+246,16.134999999999998,262.5,1.6268799999999999,19.0,0.258,Resun Solar,Monocrystalline,China
+247,19.55,380.0,1.98396,22.1,0.23,GPPV New Energy,Monocrystalline,China
+248,19.0,367.5,1.9403519999999999,22.0,0.255,Am Solar,Monocrystalline,China
+249,20.75,580.0,2.7953099999999997,32.1,0.27,Other,PERC,China
+250,19.41,385.0,1.982958,22.0,0.245,CETC Solar,Monocrystalline,China
+251,20.9,540.0,2.584386,28.5,0.255,Other,Monocrystalline,China
+253,21.1,540.0,2.5560479999999997,32.3,0.238,LONGi Solar,Bifacial,China
+254,20.740000000000002,492.5,2.374596,25.5,0.274,Luxen Solar Energy,Monocrystalline,China
+256,20.15,395.0,1.9596600000000002,22.0,0.34,Other,PERC,Poland
+257,19.03,190.0,0.9983,11.5,0.236,Hinergy,Monocrystalline,China
+259,20.049999999999997,442.5,2.209184,25.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+261,19.925,400.0,2.012016,22.4,0.205,Sunrise,Monocrystalline,China
+262,17.225,335.0,1.9443199999999998,22.2,0.296,Austa Energy,Polycrystalline,China
+264,20.8,537.5,2.584386,28.6,0.266,JA Solar,PERC,China
+265,19.450000000000003,322.5,1.685232,18.5,0.318,AE Solar,Monocrystalline,Germany
+266,17.35,110.0,0.7004,9.5,0.261,Twinsel Electronic Technology,Polycrystalline,China
+268,20.48,395.0,1.92896,21.5,0.212,Sunrise,Monocrystalline,China
+269,20.895,540.0,2.584386,29.0,0.227,Sunpro Power,Monocrystalline,China
+272,21.1,540.0,2.5560479999999997,32.3,0.256,Consort Solar,Bifacial,China
+273,18.884999999999998,187.5,0.993476,11.0,0.266,Sunket New Energy,Monocrystalline,China
+274,17.270000000000003,335.0,1.9403519999999999,22.0,0.163,RICH Solar Energy,Polycrystalline,China
+275,20.075000000000003,335.0,1.6683299999999999,18.0,0.163,RICH Solar Energy,Monocrystalline,China
+276,16.385,267.5,1.6268799999999999,18.5,0.246,TPL Solar,Polycrystalline,China
+277,21.11,597.5,2.830116,31.0,0.281,Shanghai Pvsys New Energy,PERC,China
+278,20.700000000000003,397.5,1.922384,21.0,0.305,Trina Solar,Monocrystalline,Czech Republic
+279,18.700000000000003,200.0,1.27664,15.5,0.276,For Leaves,Monocrystalline,China
+284,21.1,655.0,3.106352,33.0,0.231,Other,Monocrystalline,China
+286,19.25,377.5,1.9582080000000002,28.0,0.207,Other,Bifacial,China
+287,19.53,330.0,1.687368,18.5,0.192,PolyCrown Solar Tech,PERC,China
+288,18.555,360.0,1.9403519999999999,22.5,1.28,Topsky Energy,Monocrystalline,China
+289,21.1,655.0,3.106352,38.7,0.257,Consort Solar,Bifacial,China
+290,20.6,492.5,2.3848960000000003,26.3,0.217,JF Solar Technology,Monocrystalline,China
+291,17.25,335.0,1.9403519999999999,22.0,0.246,Twinsel Electronic Technology,Polycrystalline,China
+292,19.3,375.0,1.9403519999999999,21.5,0.27,Ruihuang New Energy and Science,Monocrystalline,China
+293,19.71,332.5,1.687368,19.1,0.205,Sunrise,Monocrystalline,China
+294,21.200000000000003,600.0,2.830116,31.5,0.246,Sunway Solar,Monocrystalline,China
+295,19.6,360.0,1.852864,21.0,0.276,For Leaves,Monocrystalline,China
+297,16.475,320.0,1.9403519999999999,22.0,0.187,Sunpro Power,Polycrystalline,China
+298,20.955,547.5,2.612864,29.0,0.246,Hinergy,Monocrystalline,China
+301,16.01,235.0,1.31936,17.0,0.266,Sunket New Energy,Monocrystalline,China
+302,19.549999999999997,362.5,1.854558,25.0,0.2,GPPV New Energy,Monocrystalline,China
+303,20.744999999999997,535.0,2.578716,28.6,0.241,ReneSola,Monocrystalline,China
+304,20.65,402.5,1.9527480000000002,21.5,0.29,JA Solar,PERC,Poland
+305,18.950000000000003,310.0,1.6236,17.5,0.217,Quality Solar,PERC,China
+308,19.0,355.0,1.8216899999999998,20.0,0.261,Horay Solar,Monocrystalline,China
+309,20.8,537.5,2.584386,27.5,0.272,Luxen Solar Energy,Monocrystalline,China
+310,20.3,377.5,1.8609879999999999,20.5,0.289,JA Solar,Monocrystalline,Czech Republic
+311,20.7,450.0,2.1735719999999996,27.5,0.246,LONGi Solar,Bifacial,China
+312,16.6,270.0,1.6268799999999999,18.0,0.182,PolyCrown Solar Tech,Polycrystalline,China
+313,20.310000000000002,370.0,1.8216899999999998,20.0,0.236,Hinergy,Monocrystalline,China
+314,20.85,590.0,2.830116,35.3,0.252,Trina Solar,Bifacial,China
+315,19.965,337.5,1.6883700000000001,18.5,0.227,Sunpro Power,PERC,China
+316,19.9,400.0,2.012016,23.0,0.21,GPPV New Energy,Monocrystalline,China
+317,21.1,545.0,2.584386,28.3,0.251,Consort Solar,Monocrystalline,China
+318,20.7,450.0,2.1735719999999996,27.5,0.217,LONGi Solar,Bifacial,China
+319,17.1,280.0,1.6268799999999999,17.75,0.251,ERA Solar,Polycrystalline,China
+320,20.0,340.0,1.6933799999999999,19.0,0.251,"Omnis Power Co,.Ltd",Monocrystalline,United States
+321,21.299999999999997,545.0,2.5560479999999997,27.2,0.33,LONGi Solar,Monocrystalline,Italy
+323,20.299999999999997,397.5,1.9596600000000002,21.0,0.263,Zonergy,Monocrystalline,China
+324,16.92,327.5,1.9393600000000002,21.5,0.246,Evolve India Solar,Polycrystalline,India
+325,16.299999999999997,265.0,1.6268799999999999,18.5,0.17,Suzhou PV Solar Tech,Polycrystalline,China
+327,20.58,532.5,2.5877999999999997,28.6,0.265,Himin,PERC,China
+328,21.7,440.0,2.030984,21.6,0.296,Other,Monocrystalline,China
+329,17.35,337.5,1.6268799999999999,18.0,0.246,Yahong Energy,Monocrystalline,China
+330,20.25,440.0,2.1735719999999996,25.5,0.249,Olive Solar,Monocrystalline,China
+332,20.55,375.0,1.8216899999999998,19.5,0.246,LONGi Solar,Monocrystalline,China
+333,20.915,452.5,2.163672,3.2,0.245,Amerisolar,Monocrystalline,China
+334,20.765,405.0,1.9527480000000002,20.2,0.277,Other,PERC,China
+335,16.3,265.0,1.6268799999999999,18.2,0.248,Jidi Solar,Polycrystalline,China
+336,20.740000000000002,495.0,2.374596,27.0,0.236,Hinergy,Monocrystalline,China
+337,19.88,400.0,2.012016,22.0,0.192,Tide Solar,PERC,China
+339,20.700000000000003,442.5,2.164806,23.6,0.246,Olive Solar,PERC,China
+340,16.445,267.5,1.6268799999999999,18.5,0.246,Evolve India Solar,Polycrystalline,India
+341,21.02,455.0,2.170533,24.0,0.172,RICH Solar Energy,PERC,China
+343,18.8,345.0,1.938396,22.5,0.276,Xuzhou Hengda Electronic,Polycrystalline,China
+344,20.85,545.0,2.612864,28.6,1.48,Topsky Energy,PERC,China
+346,20.65,580.0,2.80572,31.5,0.193,GPPV New Energy,Monocrystalline,China
+350,21.049999999999997,595.0,2.830116,35.3,0.284,AE Solar,PERC,Germany
+351,19.995,337.5,1.687368,19.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+353,19.84,385.0,1.9403519999999999,21.0,0.3,Iberian Solar,PERC,Spain
+354,19.665,390.0,1.98396,22.5,0.236,Hinergy,Monocrystalline,China
+356,20.895000000000003,540.0,2.584386,29.0,0.3,Other,PERC,Italy
+357,21.4,592.5,2.770362,31.0,0.253,Consort Solar,Monocrystalline,China
+358,19.88,400.0,2.012016,22.5,1.38,Topsky Energy,Monocrystalline,China
+359,19.915,440.0,2.1735719999999996,23.5,0.27,Ruihuang New Energy and Science,Monocrystalline,China
+362,19.564999999999998,330.0,1.687368,19.0,1.38,Topsky Energy,Monocrystalline,China
+363,19.9,367.5,1.8497199999999998,20.5,0.289,CSI Solar,PERC,Czech Republic
+364,20.0,260.0,1.6268799999999999,,0.246,Oushang Photovoltaic,Monocrystalline,China
+365,19.490000000000002,395.0,2.00694,23.0,0.248,Beijing Shanhu (Sangsolar),Monocrystalline,China
+367,20.125,405.0,2.012016,22.5,0.276,Austa Energy,Monocrystalline,China
+368,20.700000000000003,442.5,2.1413699999999998,25.5,0.249,Olive Solar,Monocrystalline,China
+369,18.909999999999997,325.0,1.717632,27.0,0.244,Sunket New Energy,Bifacial,China
+371,21.1,540.0,2.563974,27.8,0.295,CSI Solar,PERC,Spain
+374,20.735,405.0,1.9532919999999998,21.5,0.268,AE Solar,PERC,Germany
+375,20.950000000000003,592.5,2.830116,34.8,0.26,Zonergy,"Bifacial, PERC",China
+376,20.175,367.5,1.8216899999999998,19.5,0.251,Csunpower,PERC,China
+377,19.950000000000003,365.0,1.7922,19.9,0.246,Ktech Energy,PERC,China
+378,20.45,400.0,1.9527480000000002,22.5,0.261,ERA Solar,Polycrystalline,China
+379,16.905,275.0,1.6268799999999999,18.5,0.247,Himin,Polycrystalline,China
+380,19.68,337.5,1.6933799999999999,19.0,0.254,"Omnis Power Co,.Ltd",PERC,United States
+381,19.25,360.0,1.868352,20.0,0.2,GPPV New Energy,Monocrystalline,China
+384,19.560000000000002,325.0,1.661316,18.6,0.276,Austa Energy,Monocrystalline,China
+385,21.1,655.0,3.106352,34.4,0.244,CSI Solar,PERC,China
+386,20.555,445.0,2.164806,24.0,1.16,Other,Monocrystalline,China
+388,19.75,335.0,1.695384,19.0,0.253,Olive Solar,Monocrystalline,China
+392,19.665,390.0,1.982958,22.0,0.279,SpolarPV,PERC,China
+393,19.665,390.0,1.982958,22.5,0.258,Resun Solar,Monocrystalline,China
+394,20.625,405.0,1.9521590000000002,20.0,0.243,Sunrise,Monocrystalline,China
+395,20.8,397.5,1.9527480000000002,20.5,0.227,Hershey-Power,Monocrystalline,China
+398,21.205,537.5,2.584386,29.0,0.286,Other,Monocrystalline,China
+399,21.65,507.5,2.3458799999999997,23.0,0.241,Solardeland,Monocrystalline,Germany
+403,20.585,447.5,2.18608,24.0,0.244,Other,Monocrystalline,China
+404,18.555,150.0,0.567,2.0,0.64,Hinergy,Monocrystalline,China
+405,20.3,377.5,1.868352,20.7,0.292,JA Solar,PERC,Poland
+406,19.265,360.0,1.877232,22.0,0.241,East Lux Energy,PERC,China
+407,18.950000000000003,310.0,1.6268799999999999,18.2,0.263,Ruihuang New Energy and Science,Monocrystalline,China
+408,21.1,647.5,3.068565,34.0,0.275,RECOM,PERC,France
+409,20.85,545.0,2.612864,28.6,0.213,JF Solar Technology,PERC,China
+411,20.8,537.5,2.584386,20.5,0.217,Suzhou PV Solar Tech,Monocrystalline,China
+412,19.634999999999998,327.5,1.6268799999999999,,0.236,Rarlon PV TECH,PERC,China
+413,21.65,470.0,2.1735719999999996,26.5,0.291,Csunpower,Other,China
+414,19.665,390.0,1.982958,23.0,0.24,Sunket New Energy,Monocrystalline,China
+416,18.77,347.5,1.829994,19.5,0.256,Other,PERC,Other
+417,20.634999999999998,490.0,2.374596,26.0,0.256,Sunlike Solar,Monocrystalline,China
+418,20.795,450.0,2.16403,24.0,0.268,AE Solar,Monocrystalline,Germany
+419,19.95,402.5,2.01,,0.261,Aoli Solar,Monocrystalline,China
+420,15.105,112.5,0.7448,8.4,0.266,Sunket New Energy,Polycrystalline,China
+421,21.65,470.0,2.1735719999999996,23.5,0.236,Powitt Solar,PERC,China
+422,20.59,375.0,1.8216899999999998,20.2,0.217,Sunpro Power,PERC,China
+423,20.634999999999998,345.0,1.70688,19.5,0.34,Other,Monocrystalline,Italy
+424,18.68,362.5,1.9403519999999999,22.0,0.187,PolyCrown Solar Tech,PERC,China
+425,20.9,540.0,2.584386,29.0,0.263,Other,Monocrystalline,China
+426,17.5,340.0,1.9443199999999998,22.1,0.23,GPPV New Energy,Polycrystalline,China
+427,18.700000000000003,310.0,1.6556480000000002,23.2,0.241,Just Solar,"Bifacial, PERC",China
+428,16.4,215.0,1.3094400000000002,13.4,0.217,Other,Polycrystalline,China
+429,15.830000000000002,257.5,1.6268799999999999,18.5,0.246,TPL Solar,Polycrystalline,China
+430,20.8,537.5,2.58108,32.0,0.263,Zonergy,Monocrystalline,China
+431,21.085,545.0,2.584386,28.9,0.29,Iberian Solar,PERC,Spain
+432,21.15,542.5,2.563974,27.8,0.307,CSI Solar,PERC,Spain
+433,20.700000000000003,397.5,1.922384,21.0,0.22,"Omnis Power Co,.Ltd",Monocrystalline,United States
+434,20.299999999999997,495.0,2.4354,28.0,0.248,Jidi Solar,PERC,China
+435,20.555,445.0,2.164806,25.0,0.236,Hinergy,Monocrystalline,China
+436,20.7,535.0,2.584386,27.5,0.276,Luxen Solar Energy,Monocrystalline,China
+437,20.895000000000003,540.0,2.584386,29.0,0.334,Ankara Solar,Bifacial,Turkey
+438,21.025,587.5,2.7941759999999998,32.0,0.243,Aoli Solar,Monocrystalline,China
+439,21.35,662.5,3.106352,34.4,0.246,Csunpower,PERC,China
+441,21.26,660.0,3.106352,32.9,0.289,Other,PERC,China
+443,20.91,452.5,2.163672,24.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+444,21.92,685.0,3.125475,33.6,0.261,Powitt Solar,PERC,China
+445,20.84,540.0,2.59119,31.6,0.272,CETC Solar,"Bifacial, PERC",China
+446,20.5,445.0,2.1735719999999996,23.3,0.218,Hershey-Power,Monocrystalline,China
+447,15.855,157.5,0.9929399999999999,10.8,0.64,For Leaves,Polycrystalline,China
+448,16.105,312.5,1.6268799999999999,20.0,0.24,Sunket New Energy,Monocrystalline,China
+449,18.745,305.0,1.6268799999999999,17.0,0.246,Rarlon PV TECH,Monocrystalline,China
+450,15.2,150.0,1.0064,17.0,0.202,Hershey-Power,Polycrystalline,China
+452,20.325000000000003,442.5,2.1767050000000006,23.0,0.264,Luxen Solar Energy,Monocrystalline,China
+454,19.95,367.5,1.852864,19.5,0.244,Other,PERC,Other
+455,19.505,390.0,2.024064,,0.236,PolyCrown Solar Tech,"Bifacial, PERC",China
+456,20.35,372.5,1.83352,20.0,0.261,"Omnis Power Co,.Ltd",PERC,United States
+457,20.25,447.5,2.209184,24.3,0.295,CSI Solar,PERC,Spain
+460,20.13,405.0,2.012016,21.5,0.254,Luxen Solar Energy,Monocrystalline,China
+461,20.4,397.5,1.9527480000000002,20.5,0.236,Beijing Shanhu (Sangsolar),Monocrystalline,China
+463,15.2,295.0,1.9403519999999999,24.0,0.248,Jidi Solar,Polycrystalline,China
+464,19.479999999999997,325.0,1.6683299999999999,19.0,0.24,Sunket New Energy,Monocrystalline,China
+465,19.665,437.5,2.22498,24.0,0.236,Saintek Solar,PERC,China
+466,20.700000000000003,495.0,2.39913,26.5,0.261,Aoli Solar,Monocrystalline,China
+467,20.8,390.0,1.8764399999999999,19.0,0.296,Sonnex Energie,Monocrystalline,Germany
+468,16.1,260.0,1.6111239999999998,23.0,0.248,Jidi Solar,Polycrystalline,China
+470,21.049999999999997,595.0,2.830116,30.9,0.252,Consort Solar,Monocrystalline,China
+471,20.65,490.0,2.374596,30.0,0.259,Consort Solar,Bifacial,China
+473,19.35,315.0,1.6683299999999999,20.0,0.244,Sunket New Energy,Monocrystalline,China
+476,21.020000000000003,595.0,2.830116,30.9,0.276,Austa Energy,Monocrystalline,China
+477,19.799999999999997,445.0,2.226,7.3,0.258,"Omnis Power Co,.Ltd",Monocrystalline,United States
+478,18.049999999999997,157.5,0.9849,11.0,0.246,Saintek Solar,Polycrystalline,China
+479,21.02,455.0,2.164806,,0.172,RICH Solar Energy,PERC,China
+481,17.15,340.0,1.982958,22.0,0.245,CETC Solar,Polycrystalline,China
+482,18.634999999999998,360.0,1.9403519999999999,22.0,0.246,Rarlon PV TECH,Monocrystalline,China
+484,20.9,535.0,2.583252,34.5,0.256,Olive Solar,PERC,China
+485,19.9,367.5,1.8497199999999998,20.0,0.21,GPPV New Energy,Monocrystalline,China
+486,20.700000000000003,397.5,1.922384,21.0,0.246,"Omnis Power Co,.Ltd",Monocrystalline,United States
+487,19.45,365.0,1.8769679999999997,23.5,0.291,Sonnex Energie,"PERC, Bifacial",Germany
+488,20.85,407.5,1.9527480000000002,21.3,0.345,CSI Solar,PERC,Canada
+489,20.7,535.0,2.584386,28.6,0.248,ReneSola,Monocrystalline,China
+490,20.47,445.0,2.1735719999999996,22.7,0.281,Sonnex Energie,PERC,Germany
+491,20.939999999999998,540.0,2.5560479999999997,28.0,0.249,Other,Monocrystalline,China
+492,20.049999999999997,365.0,1.82169,21.0,0.25,Olive Solar,Monocrystalline,China
+496,19.65,365.0,1.8610119999999999,26.5,0.295,Mysolar USA,"Bifacial, PERC",United States
+497,17.05,287.5,1.686,18.7,0.241,Other,Polycrystalline,China
+500,16.95,277.5,1.6368,18.6,0.232,"Omnis Power Co,.Ltd",Polycrystalline,United States
+501,20.25,440.0,2.1735719999999996,27.5,0.239,ReneSola,Bifacial,China
+502,20.65,540.0,2.612864,33.0,0.241,Risen Energy,"Bifacial, PERC",China
+503,19.34,360.0,1.8216899999999998,21.0,0.207,Hershey-Power,Monocrystalline,China
+504,20.9,407.5,1.9527480000000002,21.5,0.246,SunLink PV,PERC,China
+505,21.200000000000003,657.5,3.106352,33.9,0.256,Trina Solar,Monocrystalline,China
+506,21.049999999999997,595.0,2.830116,30.0,0.212,Tide Solar,PERC,China
+507,19.79,392.5,1.982958,,0.264,Aoli Solar,Monocrystalline,China
+508,19.595,325.0,1.6583400000000001,18.5,0.271,AE Solar,Monocrystalline,Germany
+509,17.005000000000003,330.0,1.9403519999999999,22.0,0.197,Just Solar,Polycrystalline,China
+511,18.549999999999997,362.5,1.9403519999999999,21.0,0.207,Hershey-Power,Monocrystalline,China
+512,19.795,392.5,1.982958,22.0,0.197,Sunpro Power,PERC,China
+513,19.775,440.0,2.22498,24.0,0.248,ReneSola,Monocrystalline,China
+516,20.354999999999997,445.0,2.18608,24.0,0.32,Ankara Solar,PERC,Turkey
+518,19.855,335.0,1.687368,19.0,0.258,Luxen Solar Energy,Monocrystalline,China
+519,20.9,535.0,2.584386,29.0,0.22,Hershey-Power,Monocrystalline,China
+520,18.055,300.0,1.687368,18.5,0.197,Rarlon PV TECH,Polycrystalline,China
+521,19.515,437.5,2.241812,26.0,0.261,SunLink PV,"PERC, Bifacial",China
+522,19.155,315.0,1.677662,19.5,0.192,Hershey-Power,Monocrystalline,China
+523,20.35,370.0,1.8216899999999998,19.5,0.255,Other,Monocrystalline,China
+524,21.39,592.5,2.770362,31.0,0.205,RECOM,PERC,France
+525,20.9,540.0,2.583252,28.6,0.247,Other,PERC,China
+526,20.47,445.0,2.1735719999999996,23.0,0.259,Other,Monocrystalline,China
+527,20.55,375.0,1.8216899999999998,19.5,0.33,LONGi Solar,Monocrystalline,Italy
+529,20.585,375.0,1.8216899999999998,20.5,0.273,Solargiga Energy,"PERC, Bifacial",China
+530,21.060000000000002,500.0,2.374596,26.0,0.266,Powitt Solar,PERC,China
+531,20.615000000000002,402.5,1.9527480000000002,22.0,0.254,Solarspace,PERC,China
+532,19.990000000000002,402.5,2.01402,23.0,0.21,Other,Monocrystalline,China
+534,21.05,595.0,2.830116,31.4,0.29,CSI Solar,PERC,Spain
+535,20.740000000000002,405.0,1.9527480000000002,22.0,0.24,Other,Monocrystalline,China
+537,20.46,400.0,1.955016,21.5,0.203,RECOM,PERC,France
+538,20.68,492.5,2.3814,29.0,0.272,CETC Solar,"Bifacial, PERC",China
+539,19.3,375.0,1.9205999999999999,20.5,0.217,Quality Solar,PERC,China
+541,20.795,537.5,2.584386,29.0,0.323,Ankara Solar,PERC,Turkey
+542,20.9,540.0,2.5809740000000003,28.0,0.271,Recsun Solar,"PERC, Bifacial",China
+543,19.705,332.5,1.687368,19.5,0.266,Other,Monocrystalline,China
+544,20.425,405.0,1.982958,22.0,0.242,CETC Solar,Monocrystalline,China
+546,20.855,490.0,2.3500319999999997,27.0,0.251,East Lux Energy,Monocrystalline,China
+547,20.8,390.0,1.8764399999999999,20.5,0.241,Mysolar USA,PERC,United States
+548,15.28,195.0,1.27664,15.0,0.227,TPL Solar,Monocrystalline,China
+549,19.66,387.5,1.971084,21.0,0.266,AE Solar,Monocrystalline,Germany
+550,19.085,370.0,1.9403519999999999,22.0,0.239,ReneSola,Monocrystalline,China
+551,20.75,465.0,2.24466,24.5,0.269,RECOM,PERC,France
+552,16.8,330.0,1.9661440000000001,,0.256,Other,Polycrystalline,United States
+553,20.25,440.0,2.1735719999999996,23.5,0.247,Olive Solar,Monocrystalline,China
+554,17.3,335.0,1.9403519999999999,23.0,0.285,Iberian Solar,Monocrystalline,Spain
+555,20.585,447.5,2.16729,25.0,0.163,RICH Solar Energy,Monocrystalline,China
+556,16.135,262.5,1.6268799999999999,20.0,0.217,Sunket New Energy,Polycrystalline,China
+557,21.465,600.0,2.7953099999999997,34.6,0.261,Jinko Solar,Bifacial,China
+558,17.35,210.0,1.3068,14.5,0.246,Twinsel Electronic Technology,Polycrystalline,China
+559,18.555,435.0,1.9403519999999999,22.0,0.197,Just Solar,Monocrystalline,China
+560,20.8,400.0,1.922384,21.0,0.241,Twinsel Electronic Technology,PERC,China
+564,21.15,657.5,3.106352,35.7,0.255,Other,Monocrystalline,China
+565,21.05,595.0,2.830116,31.4,0.32,CSI Solar,PERC,Spain
+566,15.3,225.0,1.470144,18.0,0.276,Resun Solar,Polycrystalline,China
+567,20.05,337.5,1.682244,19.5,0.22,Just Solar,Monocrystalline,China
+568,16.13,160.0,0.9916,12.0,0.266,Betop (EU) Tech,Polycrystalline,Germany
+569,20.65,490.0,2.374596,26.0,0.259,Olive Solar,PERC,China
+570,17.515,285.0,1.6268799999999999,19.0,0.225,ReneSola,Polycrystalline,China
+571,20.75,487.5,2.348709,30.6,0.246,LONGi Solar,Bifacial,China
+572,20.95,492.5,2.348709,25.1,0.231,LONGi Solar,Monocrystalline,China
+573,21.245,660.0,3.106352,34.5,0.192,Chinaland,Monocrystalline,China
+574,22.455,697.5,3.106352,34.5,0.197,Chinaland,Other,China
+575,19.855,335.0,1.687368,19.0,0.237,Sunket New Energy,Monocrystalline,China
+578,21.29,602.5,2.830116,31.0,0.244,Other,Monocrystalline,China
+580,20.955,540.0,2.5809740000000003,33.0,0.282,AE Solar,PERC,Germany
+581,14.895,127.5,0.85598,9.5,0.245,Sunket New Energy,Polycrystalline,China
+582,21.1,655.0,2.830116,34.6,0.292,CSI Solar,"Bifacial, PERC",Canada
+585,16.73,325.0,1.9403519999999999,22.0,0.345,Other,Monocrystalline,China
+586,17.65,350.0,1.982958,22.5,0.247,Himin,Polycrystalline,China
+589,18.990000000000002,320.0,1.685232,19.0,0.273,AE Solar,Monocrystalline,Germany
+590,20.75,492.5,2.374596,26.0,0.256,Olive Solar,PERC,China
+591,20.735,450.0,2.1735719999999996,24.2,0.217,Sunpro Power,PERC,China
+592,20.005,337.5,1.687368,19.1,0.2,Sunrise,Monocrystalline,China
+593,20.1,330.0,1.687368,,0.197,Rarlon PV TECH,Monocrystalline,China
+594,19.479999999999997,325.0,1.6683299999999999,19.0,0.235,ReneSola,Monocrystalline,China
+595,20.35,370.0,1.8216899999999998,19.5,0.239,Aoli Solar,Monocrystalline,China
+596,20.439999999999998,445.0,2.176705,23.5,0.246,East Lux Energy,Monocrystalline,China
+597,19.2,380.0,1.99392,22.5,0.217,Quality Solar,PERC,China
+599,20.939999999999998,540.0,2.578716,28.9,0.251,Jinko Solar,Monocrystalline,China
+600,20.25,440.0,2.1735719999999996,23.5,0.249,Olive Solar,Monocrystalline,China
+601,19.55,435.0,2.22498,24.0,0.189,GPPV New Energy,Monocrystalline,China
+602,19.205,312.5,1.6268799999999999,18.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+603,20.59,445.0,2.1617640000000002,24.0,0.2,Sunrise,Monocrystalline,China
+604,17.95,180.0,0.994,12.0,0.227,Hanfy New Energy Technology,Monocrystalline,China
+605,20.7,450.0,2.1735719999999996,24.5,0.25,CETC Solar,Monocrystalline,China
+607,20.35,370.0,1.8216899999999998,19.5,1.48,Topsky Energy,PERC,China
+608,20.47,445.0,2.1735719999999996,27.5,0.276,Austa Energy,"Bifacial, PERC",China
+610,19.795,392.5,1.98396,22.5,1.48,Topsky Energy,PERC,China
+611,19.865000000000002,362.5,1.824484,20.0,0.261,Solarspace,PERC,China
+612,17.55,340.0,1.9403519999999999,22.0,1.28,Topsky Energy,Monocrystalline,China
+613,19.55,365.0,1.868352,20.0,0.237,Sunket New Energy,Monocrystalline,China
+614,21.299999999999997,545.0,2.5560479999999997,27.2,0.238,LONGi Solar,Monocrystalline,China
+615,16.85,327.5,1.9404,25.5,0.217,Other,Monocrystalline,China
+616,20.47,445.0,2.1735719999999996,23.5,0.244,DAH Solar,Monocrystalline,China
+618,16.64,165.0,0.9916,12.0,0.197,Sunpro Power,Monocrystalline,China
+620,20.02,435.0,2.1735719999999996,23.5,0.23,Sunrise,Monocrystalline,China
+621,19.905,335.0,1.68324,18.0,0.234,Beijing Shanhu (Sangsolar),Monocrystalline,China
+622,20.18,445.0,2.209184,25.0,0.345,Other,Monocrystalline,Italy
+623,20.795,590.0,2.7941759999999998,30.0,0.163,RICH Solar Energy,Monocrystalline,China
+624,16.490000000000002,320.0,1.9403519999999999,22.0,0.236,Rarlon PV TECH,Polycrystalline,China
+627,21.14,585.0,2.7671300000000003,31.0,0.181,Sunergy Solar,Monocrystalline,China
+628,20.125,400.0,1.98708,21.5,0.325,"Omnis Power Co,.Ltd",Monocrystalline,United States
+629,20.9,540.0,2.584386,29.0,0.246,Other,PERC,China
+631,20.795,537.5,2.584386,27.0,0.281,Shanghai Pvsys New Energy,PERC,China
+633,16.595,270.0,1.6268799999999999,18.0,0.256,For Leaves,Polycrystalline,China
+634,20.935,470.0,0.224322,25.0,0.256,Jinko Solar,Monocrystalline,China
+635,20.435000000000002,445.0,2.1617640000000002,24.0,0.261,Powitt Solar,PERC,China
+638,20.95,547.5,2.612864,28.6,0.256,Trina Solar,Monocrystalline,China
+640,18.895000000000003,307.5,1.6268799999999999,18.0,0.192,PolyCrown Solar Tech,PERC,China
+641,20.740000000000002,405.0,1.9527480000000002,22.0,0.256,DAH Solar,Monocrystalline,China
+642,20.585,375.0,1.8216899999999998,20.0,0.246,DAH Solar,PERC,China
+644,20.950000000000003,650.0,3.106352,33.5,0.212,Tide Solar,PERC,China
+645,21.25,455.0,2.1413699999999998,22.3,0.254,Consort Solar,Monocrystalline,China
+646,20.15,445.0,2.209184,24.3,0.266,Mysolar USA,PERC,United States
+648,20.939999999999998,540.0,2.578716,28.0,0.238,Other,Monocrystalline,China
+650,20.25,440.0,2.1735719999999996,27.0,0.235,Sunrise,Monocrystalline,China
+652,17.035,277.5,1.6268799999999999,18.5,0.246,TPL Solar,PERC,China
+655,19.855,335.0,1.687368,19.0,0.223,ReneSola,Monocrystalline,China
+656,16.5,320.0,1.938396,22.5,0.276,Xuzhou Hengda Electronic,Polycrystalline,China
+657,20.814999999999998,452.5,2.1735719999999996,25.5,0.172,RICH Solar Energy,Bifacial,China
+658,20.950000000000003,580.0,2.7941759999999998,31.0,0.231,Hershey-Power,Monocrystalline,China
+659,21.5,387.5,1.78708,20.0,0.434,Sonnex Energie,Monocrystalline,Germany
+660,20.744999999999997,535.0,2.578716,34.3,0.266,Jinko Solar,Bifacial,China
+662,17.15,280.0,1.6368,18.0,0.246,Twinsel Electronic Technology,Monocrystalline,China
+663,20.345,435.0,2.1380939999999997,24.0,0.207,RECOM,PERC,France
+664,20.865000000000002,495.0,2.372502,26.0,0.279,AE Solar,PERC,Germany
+665,16.6,270.0,1.6268799999999999,18.0,0.384,Other,Polycrystalline,Turkey
+666,17.675,280.0,1.6268799999999999,18.5,0.246,TPL Solar,Monocrystalline,China
+667,20.240000000000002,440.0,2.1735719999999996,23.0,0.265,AE Solar,Monocrystalline,Germany
+668,19.63,327.5,1.6683299999999999,,0.241,Aoli Solar,Monocrystalline,China
+669,20.955,540.0,2.5809740000000003,27.0,0.268,AE Solar,PERC,Germany
+670,20.35,370.0,1.8216899999999998,19.2,0.236,Solardeland,Monocrystalline,Germany
+671,20.555,375.0,1.824484,20.0,0.236,Amerisolar,Monocrystalline,China
+672,19.38,390.0,2.012016,,0.187,PolyCrown Solar Tech,PERC,China
+673,20.715,405.0,1.955016,21.5,0.227,Sunpro Power,Monocrystalline,China
+674,20.23,395.0,1.9527480000000002,21.0,0.255,Other,Monocrystalline,China
+675,16.25,315.0,1.9403519999999999,25.8,0.248,Jidi Solar,Polycrystalline,China
+676,20.450000000000003,442.5,2.164806,28.0,0.247,Olive Solar,PERC,China
+677,19.28,382.5,1.982958,23.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+678,20.5,400.0,1.955016,20.9,0.248,East Lux Energy,PERC,China
+679,20.45,372.5,1.8216899999999998,19.5,0.283,Other,PERC,Germany
+680,20.85,495.0,2.374596,26.3,1.38,Topsky Energy,Monocrystalline,China
+681,16.9,280.0,1.65664,18.2,0.248,Ruihuang New Energy and Science,Polycrystalline,China
+682,21.049999999999997,595.0,2.830116,30.9,1.68,Other,Monocrystalline,China
+684,20.615000000000002,402.5,1.9527480000000002,22.0,0.177,Chinaland,Monocrystalline,China
+685,20.5,445.0,2.1735719999999996,23.3,0.246,Other,Monocrystalline,China
+687,21.049999999999997,595.0,2.830116,30.9,0.256,Trina Solar,Monocrystalline,China
+688,17.265,335.0,1.9403519999999999,20.5,0.28,Iberian Solar,Polycrystalline,Spain
+689,21.200000000000003,600.0,2.830116,31.0,0.19,Chinaland,Monocrystalline,China
+691,16.4,270.0,1.648704,,0.236,Other,Polycrystalline,United States
+692,17.009999999999998,330.0,1.9403519999999999,23.0,0.246,Evolve India Solar,Monocrystalline,India
+693,21.035,545.0,2.59119,32.5,0.293,Shanghai Pvsys New Energy,"Bifacial, PERC",China
+694,20.25,440.0,2.1735719999999996,23.5,0.215,Fortunes Solar,Monocrystalline,China
+696,20.049999999999997,365.0,1.8216899999999998,21.0,0.25,Olive Solar,Monocrystalline,China
+699,20.3,377.5,1.868352,20.7,0.227,JA Solar,PERC,China
+700,15.57,282.5,1.27664,16.0,0.202,Hershey-Power,Monocrystalline,China
+701,21.134999999999998,457.5,2.164806,23.5,0.321,Ankara Solar,PERC,Turkey
+702,18.810000000000002,365.0,1.9403519999999999,23.0,0.227,TPL Solar,Monocrystalline,China
+703,20.65,387.5,1.8764399999999999,20.5,0.267,RECOM,PERC,France
+704,20.93,495.0,2.7953099999999997,30.0,0.163,RICH Solar Energy,Monocrystalline,China
+706,21.29,550.0,2.583252,27.8,0.276,Solargiga Energy,PERC,China
+707,20.049999999999997,365.0,1.82169,19.5,0.257,Olive Solar,Monocrystalline,China
+708,20.990000000000002,542.5,2.584386,29.0,0.256,DAH Solar,"Bifacial, PERC",China
+709,20.47,445.0,2.1735719999999996,28.0,0.279,AE Solar,PERC,Germany
+710,20.45,445.0,2.1735719999999996,25.5,0.248,Jidi Solar,Monocrystalline,China
+711,21.005000000000003,652.5,3.106352,34.0,0.241,Amerisolar,Monocrystalline,China
+712,20.955,585.0,2.791712,35.0,0.284,AE Solar,PERC,Germany
+713,15.155000000000001,222.5,1.4681600000000001,16.8,0.246,TPL Solar,Polycrystalline,China
+714,18.9,307.5,1.6268799999999999,18.5,0.227,Other,Monocrystalline,China
+715,20.125,437.5,2.1735719999999996,23.0,0.276,AE Solar,Bifacial,Germany
+716,20.060000000000002,435.0,2.168292,22.8,0.248,Beijing Shanhu (Sangsolar),Monocrystalline,China
+717,19.15,250.0,1.9393600000000002,,0.232,Oushang Photovoltaic,Polycrystalline,China
+718,20.700000000000003,535.0,2.583252,28.5,0.256,Olive Solar,PERC,China
+719,18.939999999999998,367.5,1.95424,22.0,0.227,Saintek Solar,Monocrystalline,China
+720,19.75,440.0,2.1735719999999996,25.0,0.239,Other,Monocrystalline,China
+721,19.65,365.0,1.8610119999999999,26.5,0.232,Mysolar USA,"Bifacial, PERC",United States
+723,16.36,267.5,1.6351499999999999,18.8,0.256,Xuzhou Hengda Electronic,Polycrystalline,China
+724,20.049999999999997,365.0,0.018216899999999998,21.0,0.25,Olive Solar,Monocrystalline,China
+725,20.95,547.5,2.612864,28.3,0.295,Other,Monocrystalline,China
+727,21.049999999999997,595.0,2.830116,30.9,0.251,Trina Solar,Monocrystalline,China
+728,19.700000000000003,170.0,1.0064,11.0,0.256,Saintek Solar,Monocrystalline,China
+729,20.8,400.0,1.922384,21.0,0.3,Risen Energy,PERC,Italy
+731,15.4,155.0,1.0064,10.5,0.345,Other,Monocrystalline,China
+732,19.6,330.0,1.682244,18.7,0.197,JA Solar,PERC,China
+733,20.865000000000002,495.0,2.372502,26.0,0.268,AE Solar,Monocrystalline,Germany
+734,20.855,450.0,2.1580019999999998,24.2,1.38,Topsky Energy,PERC,China
+735,20.04,395.0,1.971084,21.0,0.28,AE Solar,Monocrystalline,Germany
+736,16.895,170.0,1.0064,,0.197,Rarlon PV TECH,Monocrystalline,China
+738,19.045,320.0,1.681356,24.0,0.4,Other,Bifacial,Italy
+739,20.85,582.5,1.66131,35.0,0.258,Consort Solar,Bifacial,China
+740,19.555,330.0,1.687368,18.0,0.192,Tide Solar,PERC,China
+741,19.455,377.5,1.9403519999999999,21.0,0.3,Iberian Solar,PERC,Spain
+742,21.1,545.0,2.584386,28.5,0.276,Other,Monocrystalline,China
+743,19.18,320.0,1.6683299999999999,18.5,0.245,CETC Solar,Monocrystalline,China
+745,20.515,385.0,1.8769679999999997,22.8,0.227,Other,Other,China
+746,16.9,330.0,1.955232,37.5,0.217,Quality Solar,"Bifacial, PERC",China
+747,16.135,160.0,0.9916,12.0,0.187,Sunpro Power,Polycrystalline,China
+748,20.6,490.0,2.3814,25.0,0.234,Other,Monocrystalline,China
+749,20.285,445.0,2.19374,25.0,0.194,Sunergy Solar,Monocrystalline,China
+750,19.299999999999997,320.0,1.6583400000000001,17.8,0.246,Hiwatt Solar,Monocrystalline,China
+752,19.65,435.0,2.215292,31.5,0.246,Mysolar USA,"Bifacial, PERC",United States
+753,18.049999999999997,105.0,0.6834,7.7,0.256,Saintek Solar,Polycrystalline,China
+754,18.0,347.5,1.9305,23.0,0.171,Chinaland,Monocrystalline,China
+756,21.65,470.0,2.1735719999999996,23.5,0.236,Recsun Solar,"PERC, Bifacial",China
+757,20.740000000000002,492.5,2.374596,26.3,0.248,CETC Solar,Monocrystalline,China
+758,20.9,495.0,2.37006,25.2,0.241,Mysolar USA,PERC,United States
+759,20.9,540.0,2.584386,27.0,0.231,Other,Monocrystalline,China
+760,16.255,207.5,1.27664,14.5,0.256,"Omnis Power Co,.Ltd",Monocrystalline,United States
+761,20.049999999999997,365.0,1.82169,19.5,0.25,Olive Solar,Monocrystalline,China
+762,20.405,377.5,1.8497199999999998,20.5,0.174,Chinaland,Monocrystalline,China
+764,17.745,342.5,1.9305,23.0,0.17,Chinaland,Monocrystalline,China
+765,19.490000000000002,395.0,2.00694,23.0,0.247,Beijing Shanhu (Sangsolar),Monocrystalline,China
+766,17.35,292.5,1.687368,19.0,0.213,Just Solar,Polycrystalline,China
+770,20.95,492.5,2.348709,25.1,0.33,LONGi Solar,Monocrystalline,Italy
+772,16.89,327.5,1.9403519999999999,23.0,0.246,TPL Solar,Polycrystalline,China
+773,19.049999999999997,390.0,2.047248,26.6,0.241,ReneSola,Bifacial,China
+774,20.310000000000002,370.0,1.8216899999999998,19.5,0.262,AE Solar,Monocrystalline,Germany
+775,20.005,402.5,2.012016,21.5,0.265,Luxen Solar Energy,Monocrystalline,China
+776,20.634999999999998,490.0,2.374596,26.5,0.251,DAH Solar,Monocrystalline,China
+778,16.34,267.5,1.6351499999999999,18.8,0.276,Xuzhou Hengda Electronic,Polycrystalline,China
+781,19.9,410.0,2.0613759999999997,23.4,0.235,CSI Solar,PERC,China
+782,19.575000000000003,377.5,1.92896,21.5,0.229,Sunrise,Monocrystalline,China
+784,15.45,105.0,0.646495,8.0,0.248,Jidi Solar,Monocrystalline,China
+785,19.655,390.0,1.98396,22.3,0.276,Austa Energy,Monocrystalline,China
+787,20.85,590.0,2.830116,35.0,0.243,Twinsel Electronic Technology,PERC,China
+788,20.9,417.5,1.9971119999999998,22.0,0.246,Powitt Solar,PERC,China
+789,17.005000000000003,330.0,1.9403519999999999,21.6,0.256,For Leaves,Polycrystalline,China
+790,20.9,650.0,3.106352,38.7,0.256,Other,PERC,China
+792,16.62,322.5,1.9403519999999999,23.0,0.236,Sunket New Energy,Polycrystalline,China
+793,16.595,270.0,1.6268799999999999,18.0,0.345,Other,Monocrystalline,China
+794,19.785,390.0,1.971084,21.0,0.287,AE Solar,Monocrystalline,Germany
+795,20.75,580.0,2.7953099999999997,30.0,0.276,Luxen Solar Energy,Monocrystalline,China
+796,20.700000000000003,442.5,2.1413699999999998,28.0,0.249,Olive Solar,Bifacial,China
+797,20.700000000000003,442.5,2.1413699999999998,25.5,0.247,Olive Solar,Monocrystalline,China
+798,18.5,365.0,1.971104,28.3,0.217,Just Solar,"Bifacial, PERC",China
+799,20.0,370.0,1.8497199999999998,19.8,0.232,Other,PERC,China
+800,20.92,585.0,2.7964440000000006,31.0,0.245,Amerisolar,Monocrystalline,China
+801,18.95,312.5,1.6268799999999999,22.8,0.202,Hershey-Power,PERC,China
+802,21.25,660.0,3.106352,33.5,0.571,Fortunes Solar,Monocrystalline,China
+803,16.299999999999997,265.0,1.6268799999999999,18.0,0.217,Other,Polycrystalline,China
+804,19.75,365.0,1.8497199999999998,21.2,0.232,Mysolar USA,PERC,United States
+805,21.25,595.0,2.7953099999999997,31.5,1.38,Topsky Energy,PERC,China
+806,21.049999999999997,550.0,2.612864,28.6,0.227,Sunpro Power,Monocrystalline,China
+807,21.0,450.0,2.1432599999999997,23.5,0.271,Horay Solar,Monocrystalline,China
+808,21.0,450.0,2.1580019999999998,23.5,0.263,"Omnis Power Co,.Ltd",PERC,United States
+809,19.4,320.0,1.6683299999999999,18.0,0.286,SpolarPV,Monocrystalline,China
+811,17.05,265.0,1.6268799999999999,18.2,0.248,Ruihuang New Energy and Science,Polycrystalline,China
+813,19.96,340.0,1.7033999999999998,22.5,0.166,Sunergy Solar,Bifacial,China
+816,19.8,390.0,1.971084,21.5,0.236,Hiwatt Solar,Monocrystalline,China
+817,19.46,380.0,1.9968810000000001,22.0,0.192,Hershey-Power,Monocrystalline,China
+818,18.9,310.0,1.6368,18.3,0.225,GPPV New Energy,Monocrystalline,China
+819,20.115000000000002,397.5,2.1735719999999996,23.0,0.198,Hershey-Power,Monocrystalline,China
+820,17.35,290.0,1.67152,18.5,0.232,Ulica Solar,PERC,China
+821,19.41,385.0,1.971104,22.5,0.227,TPL Solar,PERC,China
+822,20.57,447.5,2.16729,24.0,0.254,ERA Solar,Monocrystalline,China
+825,21.049999999999997,595.0,2.830116,30.9,0.281,AE Solar,PERC,Germany
+827,18.975,310.0,1.6268799999999999,18.5,0.246,TPL Solar,PERC,China
+828,21.0,652.5,3.106352,37.9,0.294,CSI Solar,"Bifacial, PERC",Canada
+829,19.18,430.0,2.241812,30.0,0.251,East Lux Energy,"Bifacial, PERC",China
+830,20.9,495.0,2.37006,25.2,0.251,Mysolar USA,PERC,United States
+831,19.25,360.0,1.868352,20.0,0.256,SpolarPV,Monocrystalline,China
+832,19.195,372.5,1.9403519999999999,23.0,0.227,Other,Monocrystalline,China
+833,21.03,595.0,2.830116,30.5,0.212,Sunrise,Monocrystalline,China
+834,21.02,455.0,2.164806,27.3,0.293,Shanghai Pvsys New Energy,"Bifacial, PERC",China
+835,17.0,170.0,1.0064,12.0,0.246,Hanfy New Energy Technology,Monocrystalline,China
+836,20.55,450.0,2.1735719999999996,24.0,0.217,Hiwatt Solar,Monocrystalline,China
+837,19.95,440.0,2.1735719999999996,23.5,0.246,Powitt Solar,Monocrystalline,China
+838,21.255000000000003,415.0,1.9527480000000002,20.7,0.277,Solargiga Energy,PERC,China
+839,20.38,340.0,1.6683299999999999,23.0,0.217,Sunway Solar,Monocrystalline,China
+840,16.905,275.0,1.6268799999999999,18.5,0.182,Ankara Solar,Polycrystalline,Turkey
+842,19.855,335.0,1.687368,19.0,0.242,Other,PERC,China
+843,20.93,535.0,2.5560479999999997,27.2,0.248,ReneSola,Monocrystalline,China
+844,16.16,160.0,0.9903420000000001,11.5,0.163,RICH Solar Energy,Polycrystalline,China
+845,20.049999999999997,365.0,1.82169,19.5,0.254,Olive Solar,Monocrystalline,China
+846,20.0,407.5,2.034,27.0,0.236,Twinsel Electronic Technology,"PERC, Bifacial",China
+847,17.1,280.0,1.6368,18.3,0.23,GPPV New Energy,Polycrystalline,China
+848,20.7,535.0,2.584386,29.0,0.236,Hinergy,Monocrystalline,China
+851,18.165,342.5,1.9403519999999999,22.0,0.197,Rarlon PV TECH,Monocrystalline,China
+852,21.65,470.0,2.1735719999999996,23.5,0.232,Recsun Solar,PERC,China
+853,21.2,600.0,2.8236000000000003,30.9,0.227,Sunpro Power,Monocrystalline,China
+854,20.47,535.0,2.5560479999999997,31.8,0.248,Beijing Shanhu (Sangsolar),Bifacial,China
+855,21.0,537.5,2.584386,27.2,0.256,ERA Solar,Bifacial,China
+856,19.33,430.0,2.22498,25.5,0.255,Am Solar,Monocrystalline,China
+857,21.645,605.0,2.7953099999999997,30.6,0.266,Jinko Solar,Monocrystalline,China
+858,17.049999999999997,332.5,1.950272,26.7,0.256,Sunlike Solar,Monocrystalline,China
+859,20.55,447.5,2.209184,23.5,1.38,Topsky Energy,Monocrystalline,China
+861,17.5,285.0,1.6268799999999999,18.2,0.248,Jidi Solar,Monocrystalline,China
+862,20.9,540.0,2.5809740000000003,28.0,0.266,Recsun Solar,PERC,China
+864,17.67,287.5,1.6268799999999999,18.0,0.285,Iberian Solar,Monocrystalline,Spain
+865,20.5,445.0,2.1735719999999996,23.0,0.244,Sunket New Energy,Monocrystalline,China
+867,20.605,447.5,2.1716100000000003,26.4,0.266,Solarspace,PERC,China
+868,16.634999999999998,165.0,0.9916,12.0,0.296,Betop (EU) Tech,Monocrystalline,Germany
+869,21.1,655.0,3.106352,33.9,0.284,AE Solar,PERC,Germany
+870,16.7,275.0,1.644736,24.0,1.38,Topsky Energy,Polycrystalline,China
+871,20.585,447.5,2.1735719999999996,23.5,0.236,DAH Solar,PERC,China
+875,20.585,375.0,1.8216899999999998,19.5,0.266,AE Solar,PERC,Germany
+876,19.855,335.0,1.687368,19.5,0.236,Hinergy,Monocrystalline,China
+877,20.96,500.0,2.3848960000000003,26.3,0.276,Austa Energy,Monocrystalline,China
+878,16.495,320.0,1.9403519999999999,22.5,0.29,Iberian Solar,Polycrystalline,Spain
+880,18.54,360.0,1.9403519999999999,21.6,0.276,For Leaves,Monocrystalline,China
+881,21.0,537.5,2.5560479999999997,32.3,0.252,Zonergy,"Bifacial, PERC",China
+882,20.75,487.5,2.348709,30.6,0.192,LONGi Solar,Bifacial,China
+883,17.200000000000003,332.5,1.9403519999999999,22.0,1.93,Am Solar,Polycrystalline,China
+884,21.02,455.0,2.164806,22.3,0.281,Shanghai Pvsys New Energy,PERC,China
+887,20.6,395.0,1.922384,21.0,0.256,Hiwatt Solar,Monocrystalline,China
+889,20.8,492.5,2.374596,26.3,0.241,Aoli Solar,Monocrystalline,China
+891,20.65,387.5,1.8764399999999999,20.5,0.246,Sunway Solar,Monocrystalline,China
+892,16.145,210.0,1.27664,,0.197,Rarlon PV TECH,Monocrystalline,China
+893,20.479999999999997,400.0,0.23074799999999998,20.2,0.227,Other,Monocrystalline,China
+894,20.200000000000003,367.5,1.824484,20.0,0.256,SunLink PV,PERC,China
+895,20.85,407.5,1.9527480000000002,21.3,0.31,CSI Solar,PERC,Spain
+896,16.015,260.0,1.6236,21.0,0.207,Hershey-Power,Monocrystalline,China
+897,19.53,330.0,1.687368,18.5,0.236,PolyCrown Solar Tech,Monocrystalline,China
+898,21.085,655.0,3.106352,33.9,0.273,AE Solar,PERC,Germany
+899,21.200000000000003,600.0,2.830116,36.0,0.192,Chinaland,"Bifacial, PERC",China
+900,18.555,295.0,1.6268799999999999,18.2,0.212,Just Solar,PERC,China
+902,21.04,590.0,2.826835,30.0,0.227,Hanfy New Energy Technology,Monocrystalline,China
+903,20.93,585.0,2.7953099999999997,30.0,0.163,RICH Solar Energy,Monocrystalline,China
+905,21.1,540.0,2.584386,27.2,0.232,Hershey-Power,Monocrystalline,China
+906,19.450000000000003,377.5,1.9403519999999999,,0.271,Aoli Solar,Monocrystalline,China
+907,20.255000000000003,442.5,2.1843600000000003,24.0,0.236,Other,PERC,China
+908,14.5,145.0,1.001832,12.0,0.248,Jidi Solar,Polycrystalline,China
+909,20.8,415.0,1.9971119999999998,22.0,0.229,LONGi Solar,Monocrystalline,China
+910,20.05,250.0,1.31936,,0.246,Oushang Photovoltaic,Monocrystalline,China
+911,20.950000000000003,540.0,2.584386,28.0,0.256,Other,PERC,China
+912,20.814999999999998,452.5,2.1735719999999996,23.5,0.281,Shanghai Pvsys New Energy,PERC,China
+913,20.7,450.0,2.1735719999999996,27.5,0.272,Solargiga Energy,"PERC, Bifacial",China
+914,20.630000000000003,490.0,2.374596,26.1,0.276,Austa Energy,Monocrystalline,China
+916,19.45,332.5,1.708,22.0,0.236,Twinsel Electronic Technology,"PERC, Bifacial",China
+917,19.9,440.0,2.209184,24.0,0.205,RECOM,PERC,France
+918,18.034999999999997,350.0,1.9403519999999999,23.0,0.246,Hanfy New Energy Technology,Monocrystalline,China
+919,19.35,392.5,2.012016,23.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+920,20.65,497.5,2.39913,26.5,0.31,Other,Monocrystalline,Germany
+921,16.77,332.5,1.982958,22.0,0.245,CETC Solar,Polycrystalline,China
+922,19.905,362.5,1.8216899999999998,20.0,0.23,Sunrise,Monocrystalline,China
+926,19.695,332.5,1.687368,,0.197,Rarlon PV TECH,Monocrystalline,China
+927,20.700000000000003,397.5,1.922384,21.0,1.47,Topsky Energy,Monocrystalline,China
+929,20.549999999999997,447.5,2.1735719999999996,26.7,0.255,Consort Solar,Bifacial,China
+930,20.25,370.0,1.824484,24.0,0.257,Consort Solar,Bifacial,China
+931,16.785,272.5,1.6236,19.0,0.158,Chinaland,Polycrystalline,China
+932,17.44,285.0,1.6351499999999999,18.8,0.256,Xuzhou Hengda Electronic,Polycrystalline,China
+934,20.795,537.5,2.584386,29.0,0.244,Other,PERC,China
+935,17.299999999999997,280.0,1.6268799999999999,18.0,0.202,Hershey-Power,Polycrystalline,China
+937,20.95,492.5,2.348709,25.1,0.239,LONGi Solar,Monocrystalline,China
+938,21.1,382.5,1.81308,18.5,0.335,Other,Monocrystalline,China
+940,21.509999999999998,420.0,1.9527480000000002,22.0,0.266,Jinko Solar,Monocrystalline,China
+941,17.575,340.0,1.9344,22.0,0.253,Resun Solar,Monocrystalline,China
+942,19.325000000000003,315.0,1.6368,18.0,0.197,Sunpro Power,PERC,China
+943,15.2,275.0,1.644736,23.0,0.195,Hershey-Power,Polycrystalline,China
+944,20.85,590.0,2.830116,35.0,0.266,Risen Energy,"Bifacial, PERC",China
+945,18.75,372.5,1.988895,9.4,0.443,East Lux Energy,Monocrystalline,China
+946,20.21,370.0,1.830718,20.0,0.285,Other,Monocrystalline,Poland
+947,20.005000000000003,355.0,1.77429,20.0,0.199,RECOM,PERC,France
+951,22.05,685.0,3.106352,33.6,0.264,Recsun Solar,PERC,China
+952,21.1,655.0,3.106352,41.0,0.286,AE Solar,PERC,Germany
+953,21.25,417.5,1.955016,21.0,0.294,Other,PERC,Germany
+954,18.285,300.0,1.6368,18.0,0.246,Hanfy New Energy Technology,Monocrystalline,China
+955,19.655,400.0,2.035062,26.0,0.251,East Lux Energy,Monocrystalline,China
+956,20.9,540.0,2.584386,,0.163,RICH Solar Energy,Monocrystalline,China
+958,16.95,277.5,1.6368,18.4,0.296,Austa Energy,Polycrystalline,China
+959,20.845,585.0,2.7964440000000006,31.0,0.327,Ankara Solar,PERC,Turkey
+960,15.899999999999999,160.0,1.0064,11.0,0.261,Twinsel Electronic Technology,Polycrystalline,China
+962,21.4,422.5,1.9741,26.0,0.453,Sonnex Energie,Bifacial,Germany
+963,18.955,320.0,1.687368,19.0,0.246,TPL Solar,PERC,China
+964,19.810000000000002,360.0,1.8165,19.5,0.276,Austa Energy,Monocrystalline,China
+965,21.165,657.5,3.106352,34.0,0.215,RECOM,PERC,France
+966,20.02,435.0,2.1735719999999996,23.5,0.236,Fortunes Solar,Bifacial,China
+967,21.299999999999997,590.0,2.770362,31.0,0.266,Horay Solar,Monocrystalline,China
+968,21.1,655.0,3.106352,34.0,0.252,Consort Solar,Monocrystalline,China
+969,17.15,332.5,1.9403519999999999,22.5,0.241,Powitt Solar,Polycrystalline,China
+972,17.255,335.0,1.9403519999999999,21.8,0.247,Himin,Polycrystalline,China
+973,16.11,117.5,0.665,7.5,0.296,Sunket New Energy,Monocrystalline,China
+975,20.05,435.0,2.169288,25.5,0.241,Twinsel Electronic Technology,PERC,China
+976,19.45,365.0,1.8780160000000001,24.0,0.236,Mysolar USA,"Bifacial, PERC",United States
+977,20.9,540.0,2.584386,,0.172,RICH Solar Energy,PERC,China
+978,20.48,395.0,1.92896,21.5,0.256,Other,Monocrystalline,Germany
+979,20.025,365.0,1.816425,20.0,0.266,ERA Solar,Monocrystalline,China
+980,14.844999999999999,147.5,0.993476,11.0,0.245,Sunket New Energy,Polycrystalline,China
+981,21.025,595.0,2.830116,30.9,0.27,AE Solar,PERC,Germany
+982,20.65,540.0,2.612864,29.0,0.241,Twinsel Electronic Technology,PERC,China
+984,19.06,317.5,0.1666,19.0,0.227,Other,Monocrystalline,China
+985,19.825,430.0,2.16825,23.0,0.276,Austa Energy,Monocrystalline,China
+986,20.9,540.0,2.5809740000000003,28.0,0.261,Powitt Solar,PERC,China
+987,19.0,370.0,1.9443199999999998,22.1,0.225,GPPV New Energy,Monocrystalline,China
+989,20.55,445.0,2.163672,27.3,0.259,Consort Solar,Bifacial,China
+990,17.0,330.0,1.9443199999999998,22.5,0.232,"Omnis Power Co,.Ltd",Polycrystalline,United States
+992,17.060000000000002,277.5,1.6368,18.0,0.227,Saintek Solar,Polycrystalline,China
+993,17.265,335.0,1.9403519999999999,20.0,0.248,AE Solar,Monocrystalline,Germany
+994,20.05,365.0,1.8216899999999998,20.0,0.27,Other,"Bifacial, PERC",China
+995,20.65,392.5,1.854558,25.0,0.212,"Omnis Power Co,.Ltd","HJT, Bifacial",United States
+996,20.85,590.0,2.830116,31.0,0.237,Other,PERC,China
+997,20.740000000000002,405.0,1.9527480000000002,22.0,0.246,DAH Solar,Monocrystalline,China
+999,20.485,452.5,2.209184,24.5,0.256,Other,Monocrystalline,China
+1000,15.35,297.5,1.9403519999999999,22.5,0.256,Other,Polycrystalline,Other
+1001,20.18,367.5,1.8216899999999998,20.0,0.223,Sunrise,Monocrystalline,China
+1003,18.799999999999997,310.0,1.6111239999999998,25.2,0.271,Ankara Solar,"Bifacial, PERC",Turkey
+1005,19.03,317.5,1.6683299999999999,18.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+1008,16.285,265.0,1.6268799999999999,18.2,0.236,Other,Polycrystalline,China
+1009,20.35,452.5,2.2270839999999996,27.3,0.289,JA Solar,"Bifacial, PERC",Czech Republic
+1010,20.8,532.5,2.5560479999999997,34.5,0.259,Olive Solar,Bifacial,China
+1013,17.71,287.5,1.6236,19.0,0.168,Chinaland,Monocrystalline,China
+1015,21.13,540.0,2.5560479999999997,27.0,0.237,Beijing Shanhu (Sangsolar),Monocrystalline,China
+1016,20.799999999999997,535.0,2.5696440000000003,32.2,0.294,CSI Solar,"PERC, Bifacial",Canada
+1018,20.494999999999997,487.5,2.3791320000000002,26.5,0.245,Amerisolar,Monocrystalline,China
+1020,19.07,320.0,2.012016,19.0,0.198,Hershey-Power,Monocrystalline,China
+1021,15.465,202.5,1.3094400000000002,15.0,0.246,TPL Solar,Polycrystalline,China
+1022,17.395000000000003,337.5,1.9403519999999999,20.0,0.25,AE Solar,Polycrystalline,Germany
+1023,20.28,370.0,1.824484,20.0,0.245,Amerisolar,Bifacial,China
+1027,19.085,370.0,1.9403519999999999,22.0,0.235,ReneSola,Monocrystalline,China
+1028,21.1,647.5,3.06621,34.0,0.251,Mysolar USA,PERC,United States
+1030,20.23,395.0,1.9527480000000002,21.0,0.264,Other,Monocrystalline,China
+1031,19.705,332.5,1.687368,19.0,0.267,Luxen Solar Energy,Monocrystalline,China
+1032,17.115000000000002,170.0,0.993476,11.0,0.266,Sunket New Energy,Monocrystalline,China
+1033,19.93,400.0,2.00694,22.7,0.242,CETC Solar,Monocrystalline,China
+1034,20.345,435.0,2.11225,24.0,0.251,East Lux Energy,PERC,China
+1035,20.200000000000003,327.5,1.9393600000000002,,0.256,Oushang Photovoltaic,Monocrystalline,China
+1036,17.4,337.5,1.9443199999999998,22.1,0.196,Csunpower,Polycrystalline,China
+1038,20.450000000000003,452.5,2.1735719999999996,23.3,0.256,"Omnis Power Co,.Ltd",PERC,United States
+1039,20.865000000000002,407.5,1.9527480000000002,22.0,0.246,Resun Solar,Monocrystalline,China
+1041,20.795,450.0,2.16403,24.0,0.279,AE Solar,PERC,Germany
+1043,20.345,435.0,2.1380939999999997,24.0,0.34,Other,Monocrystalline,Poland
+1045,20.45,372.5,1.8216899999999998,20.0,0.251,DAH Solar,Monocrystalline,China
+1046,20.11,405.0,2.022036,22.5,0.286,SpolarPV,PERC,China
+1047,20.450000000000003,442.5,2.164806,23.6,0.246,Olive Solar,PERC,China
+1048,20.95,547.5,2.612864,28.6,0.246,Trina Solar,Monocrystalline,China
+1049,20.735,405.0,1.9532919999999998,26.0,0.282,AE Solar,PERC,Germany
+1050,20.85,590.0,2.830116,31.5,0.243,Twinsel Electronic Technology,PERC,China
+1052,20.25,397.5,1.9596600000000002,22.0,0.246,Sunway Solar,Monocrystalline,China
+1054,20.65,540.0,2.612864,33.0,0.243,Twinsel Electronic Technology,PERC,China
+1055,20.585,450.0,2.18608,24.0,0.321,Ankara Solar,PERC,Turkey
+1056,19.59,380.0,1.9403519999999999,22.0,0.235,ReneSola,Monocrystalline,China
+1058,20.18,447.5,2.22498,24.0,0.251,Resun Solar,Monocrystalline,China
+1059,21.0,450.0,2.1580019999999998,25.0,0.251,"Omnis Power Co,.Ltd",Bifacial,United States
+1060,19.18,320.0,1.6683299999999999,18.8,0.248,Himin,Monocrystalline,China
+1062,21.8,395.0,1.81308,18.5,0.296,Other,Monocrystalline,China
+1063,20.895000000000003,540.0,2.584386,27.5,0.264,Luxen Solar Energy,Monocrystalline,China
+1066,18.85,310.0,1.648704,32.0,0.217,Quality Solar,"Bifacial, PERC",China
+1067,20.5,445.0,2.1735719999999996,24.0,0.227,Hanfy New Energy Technology,Monocrystalline,China
+1068,20.34,357.5,1.7577,19.0,0.245,Amerisolar,Monocrystalline,China
+1069,22.455,697.5,3.106352,39.5,0.194,Chinaland,Other,China
+1071,20.42,480.0,2.3500319999999997,25.5,0.251,Austa Energy,Monocrystalline,China
+1073,21.41,665.0,3.106352,34.0,0.281,Shanghai Pvsys New Energy,PERC,China
+1074,21.15,597.5,2.830116,30.5,0.248,Jidi Solar,Monocrystalline,China
+1075,20.15,437.5,2.1735719999999996,24.0,0.27,Other,PERC,China
+1076,20.299999999999997,412.5,2.03312,22.5,0.291,CSI Solar,PERC,Canada
+1077,20.36,342.5,1.682244,19.0,0.155,Sunergy Solar,Monocrystalline,China
+1078,20.845,495.0,2.374596,25.5,0.163,RICH Solar Energy,Monocrystalline,China
+2160,16.1,160.0,0.9916,12.0,0.275,Ruihuang New Energy and Science,Monocrystalline,China
+2161,20.04,395.0,1.971084,21.0,0.277,AE Solar,PERC,Germany
+2163,21.1,597.5,2.830116,30.9,0.262,Ktech Energy,PERC,China
+2167,20.85,590.0,2.830116,31.5,0.235,Risen Energy,PERC,China
+2168,20.6,402.5,1.9527480000000002,24.4,0.259,Consort Solar,Bifacial,China
+2169,20.9,600.0,2.8710000000000004,30.9,0.261,Powitt Solar,PERC,China
+2170,20.15,440.0,2.209184,24.0,0.25,Other,Monocrystalline,Other
+2171,20.48,452.5,2.209184,24.8,0.175,Chinaland,Monocrystalline,China
+2173,20.955,540.0,2.5809740000000003,27.0,0.28,AE Solar,PERC,Germany
+2174,20.9,540.0,2.584386,28.5,0.284,Sonnex Energie,PERC,Germany
+2175,19.38,390.0,2.024064,23.0,0.241,PolyCrown Solar Tech,Other,China
+2176,17.15,277.5,1.6268799999999999,18.2,1.93,Am Solar,Polycrystalline,China
+2177,20.935,455.0,2.1735719999999996,24.0,0.235,Other,Monocrystalline,China
+2179,17.45,285.0,1.6268799999999999,18.6,0.246,Evolve India Solar,Polycrystalline,India
+2182,17.200000000000003,225.0,1.3094400000000002,13.4,0.227,Other,Monocrystalline,China
+2185,19.9,410.0,2.0613759999999997,23.4,0.232,CSI Solar,PERC,China
+2186,20.25,440.0,2.1735719999999996,23.5,0.25,Olive Solar,Monocrystalline,China
+2187,17.270000000000003,335.0,1.9403519999999999,22.0,0.261,Resun Solar,Polycrystalline,China
+2188,18.200000000000003,352.5,1.9403519999999999,23.5,0.256,JS Solar,Monocrystalline,China
+2189,19.7,400.0,2.032096,22.8,0.192,Ktech Energy,PERC,China
+2191,21.1,655.0,3.106352,34.4,0.29,CSI Solar,PERC,Spain
+2192,20.4,442.5,2.169288,25.5,0.212,Risen Energy,PERC,China
+2193,20.85,590.0,2.830116,35.0,0.239,Risen Energy,"Bifacial, PERC",China
+2194,20.740000000000002,405.0,1.9527480000000002,20.7,0.277,Solargiga Energy,PERC,China
+2195,20.555,445.0,2.164806,25.0,0.3,Other,PERC,Italy
+2196,18.965,322.5,1.700394,19.0,0.246,Betop (EU) Tech,Monocrystalline,Germany
+2197,15.825,255.0,1.6268799999999999,18.0,0.325,Other,Polycrystalline,China
+2198,16.509999999999998,320.0,1.9403519999999999,23.0,0.236,Hanfy New Energy Technology,Polycrystalline,China
+2199,19.33,322.5,1.6683299999999999,18.0,0.256,Betop (EU) Tech,Monocrystalline,Germany
+2200,17.950000000000003,290.0,1.6268799999999999,18.0,0.207,Hershey-Power,Monocrystalline,China
+2204,16.315,150.0,0.9983,11.5,0.315,Hinergy,Monocrystalline,China
+2205,20.64,495.0,2.348709,18.1,0.253,Beijing Shanhu (Sangsolar),Monocrystalline,China
+2206,20.955,585.0,2.791712,29.0,0.27,AE Solar,PERC,Germany
+2207,20.4,400.0,1.9596600000000002,22.0,0.246,Sunway Solar,Monocrystalline,China
+2208,17.3,342.5,1.98,23.5,0.227,Other,Polycrystalline,China
+2209,16.880000000000003,327.5,1.9403519999999999,23.0,0.194,Ankara Solar,Polycrystalline,Turkey
+2210,21.25,500.0,2.348709,25.1,0.254,Consort Solar,Monocrystalline,China
+2212,21.02,542.5,2.5809740000000003,33.0,0.28,AE Solar,Bifacial,Germany
+2214,16.634999999999998,322.5,1.938396,22.5,0.256,Xuzhou Hengda Electronic,Polycrystalline,China
+2215,20.47,445.0,2.1735719999999996,23.0,0.276,AE Solar,PERC,Germany
+2216,15.04,102.5,0.665,7.5,0.266,Sunket New Energy,Polycrystalline,China
+2218,19.445,322.5,1.6583400000000001,18.5,0.288,AE Solar,PERC,Germany
+2219,20.585,447.5,2.1735719999999996,24.2,0.227,Sunpro Power,PERC,China
+2221,18.73,460.0,2.56236,28.0,0.227,Hanfy New Energy Technology,Monocrystalline,China
+2222,21.200000000000003,657.5,3.106352,33.9,0.254,Trina Solar,Monocrystalline,China
+2223,19.75,360.0,1.8216899999999998,22.5,0.236,Rarlon PV TECH,Monocrystalline,China
+2224,21.020000000000003,595.0,2.830116,30.9,0.296,Sonnex Energie,PERC,Germany
+2226,20.0,402.5,2.012016,22.5,0.251,Horay Solar,Monocrystalline,China
+2228,19.9,330.0,1.6583400000000001,18.5,0.272,AE Solar,PERC,Germany
+2229,21.299999999999997,550.0,2.584386,29.0,0.256,DAH Solar,Monocrystalline,China
+2231,20.15,445.0,2.209184,24.3,0.286,Mysolar USA,PERC,United States
+2232,20.895000000000003,540.0,2.5809740000000003,29.0,0.251,Horay Solar,Monocrystalline,China
+2233,16.9,335.0,1.99392,22.5,0.217,Quality Solar,PERC,China
+2234,16.065,160.0,1.0064,,0.197,Rarlon PV TECH,Polycrystalline,China
+2235,20.65,532.5,2.579304,30.8,1.38,Topsky Energy,"PERC, Bifacial",China
+2236,18.8,305.0,1.6268799999999999,18.5,0.256,Am Solar,Monocrystalline,China
+2237,21.005000000000003,652.5,3.106352,34.0,0.327,Ankara Solar,PERC,Turkey
+2238,20.8,532.5,2.5560479999999997,32.0,0.236,Other,PERC,China
+2240,20.744999999999997,535.0,2.578716,28.0,0.256,Jinko Solar,Bifacial,China
+2241,20.0,370.0,1.8497199999999998,20.2,0.261,Ulica Solar,Monocrystalline,China
+2242,20.8,390.0,1.8764399999999999,20.5,0.261,Mysolar USA,PERC,United States
+2245,20.55,532.5,2.5877999999999997,27.3,0.276,For Leaves,Monocrystalline,China
+2246,20.695,535.0,2.586665,28.6,0.256,Other,PERC,China
+2247,21.299999999999997,662.5,3.106352,34.0,0.248,Jidi Solar,Monocrystalline,China
+2248,17.025,330.0,1.9403519999999999,22.5,0.256,Xuzhou Hengda Electronic,Monocrystalline,China
+2253,20.634999999999998,490.0,2.374596,25.5,0.278,Luxen Solar Energy,Monocrystalline,China
+2254,21.45,390.0,1.9403519999999999,23.0,0.246,Yahong Energy,Monocrystalline,China
+2256,20.585,447.5,2.1735719999999996,25.0,0.163,RICH Solar Energy,Monocrystalline,China
+2257,20.175,367.5,1.8216899999999998,18.5,0.192,Tide Solar,PERC,China
+2258,21.025,595.0,2.830116,30.9,0.248,CETC Solar,Monocrystalline,China
+2260,19.185000000000002,380.0,1.9810240000000001,22.0,0.251,East Lux Energy,Monocrystalline,China
+2262,20.17,367.5,1.8216899999999998,24.0,0.172,Sunergy Solar,Bifacial,China
+2263,20.85,545.0,2.612864,27.6,0.212,Tide Solar,PERC,China
+2264,20.9,535.0,2.5560479999999997,32.3,0.227,Hanfy New Energy Technology,Monocrystalline,China
+2266,20.365000000000002,397.5,1.9521590000000002,20.0,0.261,Sunrise,Monocrystalline,China
+2267,17.415,285.0,1.6368,17.5,0.255,AE Solar,Polycrystalline,Germany
+2268,20.15,372.5,1.8497199999999998,20.5,0.277,CSI Solar,PERC,Canada
+2269,19.759999999999998,360.0,1.8216899999999998,20.5,0.256,Other,Monocrystalline,China
+2270,20.75,445.0,2.1413699999999998,26.7,0.259,Consort Solar,Bifacial,China
+2272,20.8,532.5,2.583252,28.5,0.259,Olive Solar,Monocrystalline,China
+2273,20.9,540.0,2.584386,29.0,0.248,Jidi Solar,PERC,China
+2274,19.9,400.0,2.012016,22.5,0.261,Olive Solar,Monocrystalline,China
+2275,20.95,455.0,2.1735719999999996,24.3,0.219,LONGi Solar,Monocrystalline,China
+2276,18.9,315.0,1.67152,18.0,0.217,Quality Solar,PERC,China
+2277,20.299999999999997,407.5,2.00694,23.0,0.197,Risen Energy,PERC,China
+2278,20.95,455.0,2.1735719999999996,24.3,0.215,LONGi Solar,Monocrystalline,China
+2279,20.759999999999998,580.0,2.7941759999999998,31.0,0.236,Hinergy,Monocrystalline,China
+2280,20.6,532.5,2.584386,27.0,0.246,Saintek Solar,PERC,China
+2281,18.740000000000002,195.0,1.0404,12.5,0.434,AE Solar,Monocrystalline,Germany
+2282,19.755,397.5,2.012016,22.5,0.281,Other,Monocrystalline,China
+2285,18.700000000000003,315.0,1.6843620000000001,25.4,0.244,Sunket New Energy,Other,China
+2286,21.095,545.0,2.583252,29.0,0.182,Chinaland,Monocrystalline,China
+2287,20.869999999999997,407.5,1.9527480000000002,21.5,0.244,Other,PERC,China
+2288,21.200000000000003,657.5,3.106352,38.5,0.264,Zonergy,Monocrystalline,China
+2289,20.685,332.5,1.6893719999999999,18.5,0.286,SpolarPV,PERC,China
+2290,20.05,337.5,1.699392,,0.261,Aoli Solar,Monocrystalline,China
+2291,17.0,250.0,1.4681600000000001,15.0,0.227,Other,Monocrystalline,China
+2292,18.630000000000003,320.0,1.717632,22.4,0.241,ReneSola,Bifacial,China
+2294,20.799999999999997,432.5,2.0813040000000003,21.8,0.252,Zonergy,Monocrystalline,China
+2296,17.5,285.0,1.6268799999999999,,0.261,Aoli Solar,Monocrystalline,China
+2297,20.85,490.0,2.348709,29.3,0.259,Consort Solar,Bifacial,China
+2300,20.765,652.5,3.141533,33.0,0.241,Aoli Solar,Monocrystalline,China
+2302,21.39,592.5,2.770362,31.0,0.163,RICH Solar Energy,Monocrystalline,China
+2303,19.85,342.5,1.72319,17.5,0.217,Other,Monocrystalline,China
+2304,20.43,410.0,2.00694,21.0,0.27,AE Solar,PERC,Germany
+2305,21.200000000000003,657.5,3.106352,34.5,0.227,Sunway Solar,Monocrystalline,China
+2307,20.65,490.0,2.374596,31.5,0.259,Olive Solar,PERC,China
+2308,16.509999999999998,270.0,1.6268799999999999,18.0,1.38,Topsky Energy,Polycrystalline,China
+2309,19.055,310.0,1.6268799999999999,19.0,0.258,Resun Solar,Monocrystalline,China
+2311,19.26,325.0,1.687368,19.0,0.266,Mysolar USA,Monocrystalline,United States
+2313,16.665,322.5,1.9403519999999999,23.5,0.236,Yahong Energy,Polycrystalline,China
+2315,21.1,452.5,2.1413699999999998,22.5,0.246,Other,Monocrystalline,China
+2317,20.05,442.5,2.209184,24.9,0.276,JS Solar,Monocrystalline,China
+2319,20.85,590.0,2.830116,31.5,0.266,Risen Energy,PERC,China
+2322,19.310000000000002,382.5,1.98,23.5,0.227,Other,Monocrystalline,China
+2323,20.1,392.5,1.9527480000000002,21.3,0.35,CSI Solar,PERC,Canada
+2325,19.475,362.5,1.861248,,0.261,Aoli Solar,Monocrystalline,China
+2326,18.13,302.5,1.6683299999999999,18.5,0.285,Other,Monocrystalline,Other
+2327,19.02,380.0,1.99815,21.8,0.207,RECOM,PERC,France
+2329,20.585,375.0,1.8216899999999998,24.0,0.17,Chinaland,"Bifacial, PERC",China
+2330,20.450000000000003,530.0,2.59119,32.5,0.265,Other,Monocrystalline,China
+2331,21.025,590.0,2.80572,31.5,0.227,Sunway Solar,Monocrystalline,China
+2333,20.700000000000003,397.5,1.922384,21.0,0.244,Trina Solar,Monocrystalline,China
+2334,20.38,410.0,2.012016,22.5,0.217,Sunpro Power,PERC,China
+2336,20.305,407.5,2.00694,23.0,0.181,Sunergy Solar,Monocrystalline,China
+2337,19.26,325.0,1.687368,19.2,0.211,Other,Monocrystalline,China
+2340,20.05,405.0,2.012016,22.4,0.207,Fortunes Solar,Monocrystalline,China
+2342,21.09,540.0,2.560395,28.5,0.19,Sunergy Solar,Monocrystalline,China
+2343,20.9,407.5,1.9527480000000002,20.8,0.254,Consort Solar,Monocrystalline,China
+2344,15.600000000000001,155.0,0.9916,10.2,0.236,Other,Monocrystalline,China
+2345,19.415,320.0,1.6268799999999999,18.0,0.276,For Leaves,Monocrystalline,China
+2348,16.36,317.5,1.9403519999999999,22.0,0.236,Other,Polycrystalline,China
+2349,16.700000000000003,275.0,1.648704,32.0,0.217,Quality Solar,"Bifacial, PERC",China
+2350,20.48,410.0,2.002,23.0,0.294,Other,PERC,Poland
+2351,16.3,317.5,1.950272,26.7,0.227,Sunlike Solar,Polycrystalline,China
+2353,20.9,540.0,2.583252,27.0,0.227,Other,Monocrystalline,China
+2354,16.299999999999997,502.5,2.410074,26.3,0.227,Trina Solar,Monocrystalline,China
+2355,19.88,400.0,2.00694,22.7,1.38,Topsky Energy,Monocrystalline,China
+2356,20.715,405.0,1.955016,23.0,0.207,JF Solar Technology,Monocrystalline,China
+2357,20.43,410.0,2.00694,21.0,0.283,AE Solar,PERC,Germany
+495,20.6,490.0,,,0.236,Beijing Shanhu (Sangsolar),Monocrystalline,China
+649,,150.0,,10.15,,Other,Polycrystalline,China
+705,21.0,120.0,,,0.936,Other,Monocrystalline,China
+389,,130.0,,,0.493,Sunpro Power,Monocrystalline,China
+890,,150.0,,,0.493,Sunpro Power,Monocrystalline,China
+1051,24.0,165.0,,,0.949,Other,"HJT, Bifacial",China
+0,20.555,487.5,,,0.217,Quality Solar,Monocrystalline,China
+62,19.71,360.0,,,0.217,Quality Solar,Monocrystalline,China
+114,20.23,405.0,,,0.217,Quality Solar,Monocrystalline,China
+221,18.244999999999997,357.5,,23.0,0.217,Hershey-Power,Polycrystalline,China
+280,19.46,375.0,,22.0,0.195,Hershey-Power,Monocrystalline,China
+352,15.325,115.0,,,0.345,Betop (EU) Tech,Monocrystalline,Germany
+533,19.915,402.5,,26.0,0.246,Hershey-Power,Bifacial,China
+584,13.875,110.0,,,0.197,Sunpro Power,Monocrystalline,China
+654,19.07,315.0,,19.0,0.195,Hershey-Power,Monocrystalline,China
+661,19.5,200.0,,,0.739,Other,Monocrystalline,Spain
+697,17.65,150.0,,,0.394,Just Solar,Monocrystalline,China
+815,19.36,380.0,,27.5,0.205,Hershey-Power,Bifacial,China
+879,19.02,320.0,,22.0,0.271,Hershey-Power,Bifacial,China
+904,21.75,587.5,,,0.246,Just Solar,Monocrystalline,China
+950,18.215,305.0,,19.0,0.187,Hershey-Power,Polycrystalline,China
+2239,15.85,150.0,,,0.217,Just Solar,Polycrystalline,China
+2283,13.379999999999999,110.0,,,0.217,Sunpro Power,Polycrystalline,China

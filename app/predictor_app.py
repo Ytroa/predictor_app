@@ -42,7 +42,7 @@ st.write(
 
 
 #data = pickle.load(open('solar_clean.pickle', 'rb'))
-data = pd.read_csv("solar_clean_new.csv")
+data = pd.read_csv("solar_clean.csv")
 #data = pd.read_pickle("solar_clean.pickle")
 
 data = data.rename(columns={'brand_bucketed': 'brand',
@@ -167,11 +167,11 @@ pred = pretrained_rfr.predict(x)[0]
 
 
 
-#st.write(
-#'''
-# ### Expected price:
-#'''
-#f'EUR  {np.round(float(pred), 3):,}'
-#)
+st.write(
+'''
+ ### Expected price:
+'''
+f'EUR  {np.round(float(pred), 3):,}'
+)
 
 

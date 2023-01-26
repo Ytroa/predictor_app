@@ -167,11 +167,11 @@ pred = pretrained_rfr.predict(x)[0]
 
 
 
-st.write(
-'''
-### Expected price:
-'''
-f'EUR  {np.round(float(pred), 3):,}'
-)
+#st.write(
+#'''
+# ### Expected price:
+#'''
+#f'EUR  {np.round(float(pred), 3):,}'
+#)
 
 

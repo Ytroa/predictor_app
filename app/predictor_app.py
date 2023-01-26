@@ -126,8 +126,8 @@ X_prepped = pipeline.fit_transform(X)
 
 
 # load pre-trained model
-pretrained_rfr = pickle.load(open('rfr_model', 'rb'))
-
+#pretrained_rfr = pickle.load(open('rfr_model', 'rb'))
+pretrained_rfr = pd.read_pickle("rfr_model")
 
 
 # train model (only if training here in app)
